@@ -1,0 +1,1001 @@
+S.No,Book Name,Author,Department,Location,Status,Borrowed By,Prebook,Due Date,Borrow History,overdue
+1,Programming in C,E. Balagurusamy,CSE,"Row 1, Rack 1",Borrowed,513122106076.0,513122106082.0,2025-10-19 00:00:00.000000,513122106076 (05-10-2025); 513122106076 (05-10-2025),False
+2,Data Structures,Aaron M. Tenenbaum,CSE,"Row 1, Rack 2",Borrowed,513122106076.0,,2025-10-19 00:00:00.000000,513122106082 (05-10-2025); 513122106076 (05-10-2025);; 513122106076 (05-10-2025),False
+3,Introduction to Algorithms,Thomas H. Cormen,CSE,"Row 1, Rack 3",Borrowed,513122106076.0,513122106082.0,2025-10-19 00:00:00.000000,513122106076 (05-10-2025),False
+4,Computer Organization,William Stallings,CSE,"Row 1, Rack 4",Borrowed,513122106082.0,,2025-10-19 00:00:00.000000,513122106076 (05-10-2025);,False
+5,Digital Logic Design,M. Morris Mano,CSE,"Row 1, Rack 5",Available,,,,513122106076 (05-10-2025),False
+6,Operating Systems,Abraham Silberschatz,CSE,"Row 2, Rack 1",Available,,,,,False
+7,Database Systems,Henry F. Korth,CSE,"Row 2, Rack 2",Available,,,,,False
+8,Computer Networks,Andrew S. Tanenbaum,CSE,"Row 2, Rack 3",Available,,,,,False
+9,Artificial Intelligence,Stuart Russell,CSE,"Row 2, Rack 4",Available,,,,,False
+10,Machine Learning,Tom M. Mitchell,CSE,"Row 2, Rack 5",Available,,,,,False
+11,Python Programming,John Zelle,CSE,"Row 3, Rack 1",Available,,,,,False
+12,Java Programming,Herbert Schildt,CSE,"Row 3, Rack 2",Borrowed,513122106076.0,,2025-10-20 10:07:54.232397,,False
+13,C++ Programming,Stanley B. Lippman,CSE,"Row 3, Rack 3",Available,,,,,False
+14,Design Patterns,Erich Gamma,CSE,"Row 3, Rack 4",Available,,,,,False
+15,Computer Graphics,Donald Hearn,CSE,"Row 3, Rack 5",Available,,,,,False
+16,Software Engineering,Roger Pressman,CSE,"Row 4, Rack 1",Available,,,,,False
+17,Compiler Design,Alfred V. Aho,CSE,"Row 4, Rack 2",Available,,,,,False
+18,Cloud Computing,Rajkumar Buyya,CSE,"Row 4, Rack 3",Available,,,,,False
+19,Web Technologies,Uttam K. Roy,CSE,"Row 4, Rack 4",Available,,,,,False
+20,Cryptography,William Stallings,CSE,"Row 4, Rack 5",Available,,,,,False
+21,Programming in C - Edition 2,Vijayakumar V.,CSE,"Row 5, Rack 1",Available,,,,,False
+22,Data Structures - Edition 2,Jiawei Han,CSE,"Row 5, Rack 2",Available,,,,,False
+23,Introduction to Algorithms - Edition 2,Frank Vahid,CSE,"Row 5, Rack 3",Available,,,,,False
+24,Computer Organization - Edition 2,Ramesh Gaonkar,CSE,"Row 5, Rack 4",Available,,,,,False
+25,Digital Logic Design - Edition 2,Richard Szeliski,CSE,"Row 5, Rack 5",Available,,,,,False
+26,Operating Systems - Edition 2,Simon Haykin,CSE,"Row 6, Rack 1",Available,,,,,False
+27,Database Systems - Edition 2,Barry Wilkinson,CSE,"Row 6, Rack 2",Available,,,,,False
+28,Computer Networks - Edition 2,Mark Stamp,CSE,"Row 6, Rack 3",Available,,,,,False
+29,Artificial Intelligence - Edition 2,Arshdeep Bahga,CSE,"Row 6, Rack 4",Available,,,,,False
+30,Machine Learning - Edition 2,Alan Dix,CSE,"Row 6, Rack 5",Available,,,,,False
+31,Python Programming - Edition 2,Rafael Gonzalez,CSE,"Row 7, Rack 1",Available,,,,,False
+32,Java Programming - Edition 2,Daniel Jurafsky,CSE,"Row 7, Rack 2",Available,,,,,False
+33,C++ Programming - Edition 2,Ron Patton,CSE,"Row 7, Rack 3",Available,,,,,False
+34,Design Patterns - Edition 2,Raj Kamal,CSE,"Row 7, Rack 4",Available,,,,,False
+35,Computer Graphics - Edition 2,Laura Igual,CSE,"Row 7, Rack 5",Available,,,,,False
+36,Software Engineering - Edition 2,Ian Goodfellow,CSE,"Row 8, Rack 1",Available,,,,,False
+37,Compiler Design - Edition 2,Richard Sutton,CSE,"Row 8, Rack 2",Available,,,,,False
+38,Cloud Computing - Edition 2,Steven Muchnick,CSE,"Row 8, Rack 3",Available,,,,,False
+39,Web Technologies - Edition 2,Robert Harper,CSE,"Row 8, Rack 4",Available,,,,,False
+40,Cryptography - Edition 2,Robin Murphy,CSE,"Row 8, Rack 5",Available,,,,,False
+41,Programming in C - Edition 3,Andrew Hunt,CSE,"Row 9, Rack 1",Available,,,,,False
+42,Data Structures - Edition 3,Jon Bentley,CSE,"Row 9, Rack 2",Available,,,,,False
+43,Introduction to Algorithms - Edition 3,David A. Patterson,CSE,"Row 9, Rack 3",Available,,,,,False
+44,Computer Organization - Edition 3,Jeffrey Stanton,CSE,"Row 9, Rack 4",Available,,,,,False
+45,Digital Logic Design - Edition 3,John Craig,CSE,"Row 9, Rack 5",Available,,,,,False
+46,Operating Systems - Edition 3,Len Bass,CSE,"Row 10, Rack 1",Available,,,,,False
+47,Database Systems - Edition 3,Michael J. Pont,CSE,"Row 10, Rack 2",Available,,,,,False
+48,Computer Networks - Edition 3,Jeffrey Ullman,CSE,"Row 10, Rack 3",Available,,,,,False
+49,Artificial Intelligence - Edition 3,Michael Sipser,CSE,"Row 10, Rack 4",Available,,,,,False
+50,Machine Learning - Edition 3,Nicholas C. Zakas,CSE,"Row 10, Rack 5",Available,,,,,False
+51,Python Programming - Edition 3,Barbara Liskov,CSE,"Row 11, Rack 1",Available,,,,,False
+52,Java Programming - Edition 3,Brian Kernighan,CSE,"Row 11, Rack 2",Available,,,,,False
+53,C++ Programming - Edition 3,E. Balagurusamy,CSE,"Row 11, Rack 3",Available,,,,,False
+54,Design Patterns - Edition 3,Aaron M. Tenenbaum,CSE,"Row 11, Rack 4",Available,,,,,False
+55,Computer Graphics - Edition 3,Thomas H. Cormen,CSE,"Row 11, Rack 5",Available,,,,,False
+56,Software Engineering - Edition 3,William Stallings,CSE,"Row 12, Rack 1",Available,,,,,False
+57,Compiler Design - Edition 3,M. Morris Mano,CSE,"Row 12, Rack 2",Available,,,,,False
+58,Cloud Computing - Edition 3,Abraham Silberschatz,CSE,"Row 12, Rack 3",Available,,,,,False
+59,Web Technologies - Edition 3,Henry F. Korth,CSE,"Row 12, Rack 4",Available,,,,,False
+60,Cryptography - Edition 3,Andrew S. Tanenbaum,CSE,"Row 12, Rack 5",Available,,,,,False
+61,Programming in C - Edition 4,Stuart Russell,CSE,"Row 13, Rack 1",Available,,,,,False
+62,Data Structures - Edition 4,Tom M. Mitchell,CSE,"Row 13, Rack 2",Available,,,,,False
+63,Introduction to Algorithms - Edition 4,John Zelle,CSE,"Row 13, Rack 3",Available,,,,,False
+64,Computer Organization - Edition 4,Herbert Schildt,CSE,"Row 13, Rack 4",Borrowed,513122106076.0,513122106082.0,,,False
+65,Digital Logic Design - Edition 4,Stanley B. Lippman,CSE,"Row 13, Rack 5",Available,,,,,False
+66,Operating Systems - Edition 4,Erich Gamma,CSE,"Row 14, Rack 1",Available,,,,,False
+67,Database Systems - Edition 4,Donald Hearn,CSE,"Row 14, Rack 2",Available,,,,,False
+68,Computer Networks - Edition 4,Roger Pressman,CSE,"Row 14, Rack 3",Available,,,,,False
+69,Artificial Intelligence - Edition 4,Alfred V. Aho,CSE,"Row 14, Rack 4",Available,,,,,False
+70,Machine Learning - Edition 4,Rajkumar Buyya,CSE,"Row 14, Rack 5",Available,,,,,False
+71,Python Programming - Edition 4,Uttam K. Roy,CSE,"Row 15, Rack 1",Available,,,,,False
+72,Java Programming - Edition 4,William Stallings,CSE,"Row 15, Rack 2",Available,,,,,False
+73,C++ Programming - Edition 4,Vijayakumar V.,CSE,"Row 15, Rack 3",Available,,,,,False
+74,Design Patterns - Edition 4,Jiawei Han,CSE,"Row 15, Rack 4",Available,,,,,False
+75,Computer Graphics - Edition 4,Frank Vahid,CSE,"Row 15, Rack 5",Available,,,,,False
+76,Software Engineering - Edition 4,Ramesh Gaonkar,CSE,"Row 16, Rack 1",Available,,,,,False
+77,Compiler Design - Edition 4,Richard Szeliski,CSE,"Row 16, Rack 2",Available,,,,,False
+78,Cloud Computing - Edition 4,Simon Haykin,CSE,"Row 16, Rack 3",Available,,,,,False
+79,Web Technologies - Edition 4,Barry Wilkinson,CSE,"Row 16, Rack 4",Available,,,,,False
+80,Cryptography - Edition 4,Mark Stamp,CSE,"Row 16, Rack 5",Available,,,,,False
+81,Programming in C - Edition 5,Arshdeep Bahga,CSE,"Row 17, Rack 1",Available,,,,,False
+82,Data Structures - Edition 5,Alan Dix,CSE,"Row 17, Rack 2",Available,,,,,False
+83,Introduction to Algorithms - Edition 5,Rafael Gonzalez,CSE,"Row 17, Rack 3",Available,,,,,False
+84,Computer Organization - Edition 5,Daniel Jurafsky,CSE,"Row 17, Rack 4",Available,,,,,False
+85,Digital Logic Design - Edition 5,Ron Patton,CSE,"Row 17, Rack 5",Available,,,,,False
+86,Operating Systems - Edition 5,Raj Kamal,CSE,"Row 18, Rack 1",Available,,,,,False
+87,Database Systems - Edition 5,Laura Igual,CSE,"Row 18, Rack 2",Available,,,,,False
+88,Computer Networks - Edition 5,Ian Goodfellow,CSE,"Row 18, Rack 3",Available,,,,,False
+89,Artificial Intelligence - Edition 5,Richard Sutton,CSE,"Row 18, Rack 4",Available,,,,,False
+90,Machine Learning - Edition 5,Steven Muchnick,CSE,"Row 18, Rack 5",Available,,,,,False
+91,Python Programming - Edition 5,Robert Harper,CSE,"Row 19, Rack 1",Available,,,,,False
+92,Java Programming - Edition 5,Robin Murphy,CSE,"Row 19, Rack 2",Available,,,,,False
+93,C++ Programming - Edition 5,Andrew Hunt,CSE,"Row 19, Rack 3",Available,,,,,False
+94,Design Patterns - Edition 5,Jon Bentley,CSE,"Row 19, Rack 4",Available,,,,,False
+95,Computer Graphics - Edition 5,David A. Patterson,CSE,"Row 19, Rack 5",Available,,,,,False
+96,Software Engineering - Edition 5,Jeffrey Stanton,CSE,"Row 20, Rack 1",Available,,,,,False
+97,Compiler Design - Edition 5,John Craig,CSE,"Row 20, Rack 2",Available,,,,,False
+98,Cloud Computing - Edition 5,Len Bass,CSE,"Row 20, Rack 3",Available,,,,,False
+99,Web Technologies - Edition 5,Michael J. Pont,CSE,"Row 20, Rack 4",Available,,,,,False
+100,Cryptography - Edition 5,Jeffrey Ullman,CSE,"Row 20, Rack 5",Available,,,,,False
+101,Programming in C - Edition 6,Michael Sipser,CSE,"Row 21, Rack 1",Available,,,,,False
+102,Data Structures - Edition 6,Nicholas C. Zakas,CSE,"Row 21, Rack 2",Available,,,,,False
+103,Introduction to Algorithms - Edition 6,Barbara Liskov,CSE,"Row 21, Rack 3",Available,,,,,False
+104,Computer Organization - Edition 6,Brian Kernighan,CSE,"Row 21, Rack 4",Available,,,,,False
+105,Digital Logic Design - Edition 6,E. Balagurusamy,CSE,"Row 21, Rack 5",Available,,,,,False
+106,Operating Systems - Edition 6,Aaron M. Tenenbaum,CSE,"Row 22, Rack 1",Available,,,,,False
+107,Database Systems - Edition 6,Thomas H. Cormen,CSE,"Row 22, Rack 2",Available,,,,,False
+108,Computer Networks - Edition 6,William Stallings,CSE,"Row 22, Rack 3",Available,,,,,False
+109,Artificial Intelligence - Edition 6,M. Morris Mano,CSE,"Row 22, Rack 4",Available,,,,,False
+110,Machine Learning - Edition 6,Abraham Silberschatz,CSE,"Row 22, Rack 5",Available,,,,,False
+111,Python Programming - Edition 6,Henry F. Korth,CSE,"Row 23, Rack 1",Available,,,,,False
+112,Java Programming - Edition 6,Andrew S. Tanenbaum,CSE,"Row 23, Rack 2",Available,,,,,False
+113,C++ Programming - Edition 6,Stuart Russell,CSE,"Row 23, Rack 3",Available,,,,,False
+114,Design Patterns - Edition 6,Tom M. Mitchell,CSE,"Row 23, Rack 4",Available,,,,,False
+115,Computer Graphics - Edition 6,John Zelle,CSE,"Row 23, Rack 5",Available,,,,,False
+116,Software Engineering - Edition 6,Herbert Schildt,CSE,"Row 24, Rack 1",Available,,,,,False
+117,Compiler Design - Edition 6,Stanley B. Lippman,CSE,"Row 24, Rack 2",Available,,,,,False
+118,Cloud Computing - Edition 6,Erich Gamma,CSE,"Row 24, Rack 3",Available,,,,,False
+119,Web Technologies - Edition 6,Donald Hearn,CSE,"Row 24, Rack 4",Available,,,,,False
+120,Cryptography - Edition 6,Roger Pressman,CSE,"Row 24, Rack 5",Available,,,,,False
+121,Programming in C - Edition 7,Alfred V. Aho,CSE,"Row 25, Rack 1",Available,,,,,False
+122,Data Structures - Edition 7,Rajkumar Buyya,CSE,"Row 25, Rack 2",Available,,,,,False
+123,Introduction to Algorithms - Edition 7,Uttam K. Roy,CSE,"Row 25, Rack 3",Available,,,,,False
+124,Computer Organization - Edition 7,William Stallings,CSE,"Row 25, Rack 4",Available,,,,,False
+125,Digital Logic Design - Edition 7,Vijayakumar V.,CSE,"Row 25, Rack 5",Available,,,,,False
+126,Operating Systems - Edition 7,Jiawei Han,CSE,"Row 26, Rack 1",Available,,,,,False
+127,Database Systems - Edition 7,Frank Vahid,CSE,"Row 26, Rack 2",Available,,,,,False
+128,Computer Networks - Edition 7,Ramesh Gaonkar,CSE,"Row 26, Rack 3",Available,,,,,False
+129,Artificial Intelligence - Edition 7,Richard Szeliski,CSE,"Row 26, Rack 4",Available,,,,,False
+130,Machine Learning - Edition 7,Simon Haykin,CSE,"Row 26, Rack 5",Available,,,,,False
+131,Python Programming - Edition 7,Barry Wilkinson,CSE,"Row 27, Rack 1",Available,,,,,False
+132,Java Programming - Edition 7,Mark Stamp,CSE,"Row 27, Rack 2",Available,,,,,False
+133,C++ Programming - Edition 7,Arshdeep Bahga,CSE,"Row 27, Rack 3",Available,,,,,False
+134,Design Patterns - Edition 7,Alan Dix,CSE,"Row 27, Rack 4",Available,,,,,False
+135,Computer Graphics - Edition 7,Rafael Gonzalez,CSE,"Row 27, Rack 5",Available,,,,,False
+136,Software Engineering - Edition 7,Daniel Jurafsky,CSE,"Row 28, Rack 1",Available,,,,,False
+137,Compiler Design - Edition 7,Ron Patton,CSE,"Row 28, Rack 2",Available,,,,,False
+138,Cloud Computing - Edition 7,Raj Kamal,CSE,"Row 28, Rack 3",Available,,,,,False
+139,Web Technologies - Edition 7,Laura Igual,CSE,"Row 28, Rack 4",Available,,,,,False
+140,Cryptography - Edition 7,Ian Goodfellow,CSE,"Row 28, Rack 5",Available,,,,,False
+141,Programming in C - Edition 8,Richard Sutton,CSE,"Row 29, Rack 1",Available,,,,,False
+142,Data Structures - Edition 8,Steven Muchnick,CSE,"Row 29, Rack 2",Available,,,,,False
+143,Introduction to Algorithms - Edition 8,Robert Harper,CSE,"Row 29, Rack 3",Available,,,,,False
+144,Computer Organization - Edition 8,Robin Murphy,CSE,"Row 29, Rack 4",Available,,,,,False
+145,Digital Logic Design - Edition 8,Andrew Hunt,CSE,"Row 29, Rack 5",Available,,,,,False
+146,Operating Systems - Edition 8,Jon Bentley,CSE,"Row 30, Rack 1",Available,,,,,False
+147,Database Systems - Edition 8,David A. Patterson,CSE,"Row 30, Rack 2",Available,,,,,False
+148,Computer Networks - Edition 8,Jeffrey Stanton,CSE,"Row 30, Rack 3",Available,,,,,False
+149,Artificial Intelligence - Edition 8,John Craig,CSE,"Row 30, Rack 4",Available,,,,,False
+150,Machine Learning - Edition 8,Len Bass,CSE,"Row 30, Rack 5",Available,,,,,False
+151,Python Programming - Edition 8,Michael J. Pont,CSE,"Row 31, Rack 1",Available,,,,,False
+152,Java Programming - Edition 8,Jeffrey Ullman,CSE,"Row 31, Rack 2",Available,,,,,False
+153,C++ Programming - Edition 8,Michael Sipser,CSE,"Row 31, Rack 3",Available,,,,,False
+154,Design Patterns - Edition 8,Nicholas C. Zakas,CSE,"Row 31, Rack 4",Available,,,,,False
+155,Computer Graphics - Edition 8,Barbara Liskov,CSE,"Row 31, Rack 5",Available,,,,,False
+156,Software Engineering - Edition 8,Brian Kernighan,CSE,"Row 32, Rack 1",Available,,,,,False
+157,Compiler Design - Edition 8,E. Balagurusamy,CSE,"Row 32, Rack 2",Available,,,,,False
+158,Cloud Computing - Edition 8,Aaron M. Tenenbaum,CSE,"Row 32, Rack 3",Available,,,,,False
+159,Web Technologies - Edition 8,Thomas H. Cormen,CSE,"Row 32, Rack 4",Available,,,,,False
+160,Cryptography - Edition 8,William Stallings,CSE,"Row 32, Rack 5",Available,,,,,False
+161,Programming in C - Edition 9,M. Morris Mano,CSE,"Row 33, Rack 1",Available,,,,,False
+162,Data Structures - Edition 9,Abraham Silberschatz,CSE,"Row 33, Rack 2",Available,,,,,False
+163,Introduction to Algorithms - Edition 9,Henry F. Korth,CSE,"Row 33, Rack 3",Available,,,,,False
+164,Computer Organization - Edition 9,Andrew S. Tanenbaum,CSE,"Row 33, Rack 4",Available,,,,,False
+165,Digital Logic Design - Edition 9,Stuart Russell,CSE,"Row 33, Rack 5",Available,,,,,False
+166,Operating Systems - Edition 9,Tom M. Mitchell,CSE,"Row 34, Rack 1",Available,,,,,False
+167,Database Systems - Edition 9,John Zelle,CSE,"Row 34, Rack 2",Available,,,,,False
+168,Computer Networks - Edition 9,Herbert Schildt,CSE,"Row 34, Rack 3",Available,,,,,False
+169,Artificial Intelligence - Edition 9,Stanley B. Lippman,CSE,"Row 34, Rack 4",Available,,,,,False
+170,Machine Learning - Edition 9,Erich Gamma,CSE,"Row 34, Rack 5",Available,,,,,False
+171,Python Programming - Edition 9,Donald Hearn,CSE,"Row 35, Rack 1",Available,,,,,False
+172,Java Programming - Edition 9,Roger Pressman,CSE,"Row 35, Rack 2",Available,,,,,False
+173,C++ Programming - Edition 9,Alfred V. Aho,CSE,"Row 35, Rack 3",Available,,,,,False
+174,Design Patterns - Edition 9,Rajkumar Buyya,CSE,"Row 35, Rack 4",Available,,,,,False
+175,Computer Graphics - Edition 9,Uttam K. Roy,CSE,"Row 35, Rack 5",Available,,,,,False
+176,Software Engineering - Edition 9,William Stallings,CSE,"Row 36, Rack 1",Available,,,,,False
+177,Compiler Design - Edition 9,Vijayakumar V.,CSE,"Row 36, Rack 2",Available,,,,,False
+178,Cloud Computing - Edition 9,Jiawei Han,CSE,"Row 36, Rack 3",Available,,,,,False
+179,Web Technologies - Edition 9,Frank Vahid,CSE,"Row 36, Rack 4",Available,,,,,False
+180,Cryptography - Edition 9,Ramesh Gaonkar,CSE,"Row 36, Rack 5",Available,,,,,False
+181,Programming in C - Edition 10,Richard Szeliski,CSE,"Row 37, Rack 1",Available,,,,,False
+182,Data Structures - Edition 10,Simon Haykin,CSE,"Row 37, Rack 2",Available,,,,,False
+183,Introduction to Algorithms - Edition 10,Barry Wilkinson,CSE,"Row 37, Rack 3",Available,,,,,False
+184,Computer Organization - Edition 10,Mark Stamp,CSE,"Row 37, Rack 4",Available,,,,,False
+185,Digital Logic Design - Edition 10,Arshdeep Bahga,CSE,"Row 37, Rack 5",Available,,,,,False
+186,Operating Systems - Edition 10,Alan Dix,CSE,"Row 38, Rack 1",Available,,,,,False
+187,Database Systems - Edition 10,Rafael Gonzalez,CSE,"Row 38, Rack 2",Available,,,,,False
+188,Computer Networks - Edition 10,Daniel Jurafsky,CSE,"Row 38, Rack 3",Available,,,,,False
+189,Artificial Intelligence - Edition 10,Ron Patton,CSE,"Row 38, Rack 4",Available,,,,,False
+190,Machine Learning - Edition 10,Raj Kamal,CSE,"Row 38, Rack 5",Available,,,,,False
+191,Python Programming - Edition 10,Laura Igual,CSE,"Row 39, Rack 1",Available,,,,,False
+192,Java Programming - Edition 10,Ian Goodfellow,CSE,"Row 39, Rack 2",Available,,,,,False
+193,C++ Programming - Edition 10,Richard Sutton,CSE,"Row 39, Rack 3",Available,,,,,False
+194,Design Patterns - Edition 10,Steven Muchnick,CSE,"Row 39, Rack 4",Available,,,,,False
+195,Computer Graphics - Edition 10,Robert Harper,CSE,"Row 39, Rack 5",Available,,,,,False
+196,Software Engineering - Edition 10,Robin Murphy,CSE,"Row 40, Rack 1",Available,,,,,False
+197,Compiler Design - Edition 10,Andrew Hunt,CSE,"Row 40, Rack 2",Available,,,,,False
+198,Cloud Computing - Edition 10,Jon Bentley,CSE,"Row 40, Rack 3",Available,,,,,False
+199,Web Technologies - Edition 10,David A. Patterson,CSE,"Row 40, Rack 4",Available,,,,,False
+200,Cryptography - Edition 10,Jeffrey Stanton,CSE,"Row 40, Rack 5",Available,,,,,False
+201,Basic Electrical Engineering,V.K. Mehta,ECE,"Row 41, Rack 1",Available,,,,,False
+202,Network Analysis,M.E. Van Valkenburg,ECE,"Row 41, Rack 2",Available,,,,,False
+203,Signals and Systems,Alan V. Oppenheim,ECE,"Row 41, Rack 3",Available,,,,,False
+204,Digital Logic Design,M. Morris Mano,ECE,"Row 41, Rack 4",Available,,,,,False
+205,Microelectronics,Sedra & Smith,ECE,"Row 41, Rack 5",Available,,,,,False
+206,Electronic Devices & Circuits,Boylestad,ECE,"Row 42, Rack 1",Available,,,,,False
+207,Analog Communication,Simon Haykin,ECE,"Row 42, Rack 2",Available,,,,,False
+208,Digital Communication,John G. Proakis,ECE,"Row 42, Rack 3",Available,,,,,False
+209,Control Systems,I.J. Nagrath,ECE,"Row 42, Rack 4",Available,,,,,False
+210,Electromagnetics,W.H. Hayt,ECE,"Row 42, Rack 5",Available,,,,,False
+211,Linear Integrated Circuits,D. Roy Choudhury,ECE,"Row 43, Rack 1",Available,,,,,False
+212,Power Electronics,M.H. Rashid,ECE,"Row 43, Rack 2",Available,,,,,False
+213,VLSI Design,Weste & Harris,ECE,"Row 43, Rack 3",Available,,,,,False
+214,Microwave Engineering,David M. Pozar,ECE,"Row 43, Rack 4",Available,,,,,False
+215,Communication Systems,R.P. Singh,ECE,"Row 43, Rack 5",Available,,,,,False
+216,Optical Communication,Gerd Keiser,ECE,"Row 44, Rack 1",Available,,,,,False
+217,Digital Signal Processing,John G. Proakis,ECE,"Row 44, Rack 2",Available,,,,,False
+218,Wireless Communications,Robert Boylestad,ECE,"Row 44, Rack 3",Available,,,,,False
+219,Antenna Theory,Theodore S. Rappaport,ECE,"Row 44, Rack 4",Available,,,,,False
+220,RF Engineering,J. Chatterjee,ECE,"Row 44, Rack 5",Available,,,,,False
+221,Basic Electrical Engineering - Edition 2,Frank Vahid,ECE,"Row 45, Rack 1",Available,,,,,False
+222,Network Analysis - Edition 2,R.P. Jain,ECE,"Row 45, Rack 2",Available,,,,,False
+223,Signals and Systems - Edition 2,Ben G. Streetman,ECE,"Row 45, Rack 3",Available,,,,,False
+224,Digital Logic Design - Edition 2,Grainger & Stevenson,ECE,"Row 45, Rack 4",Available,,,,,False
+225,Microelectronics - Edition 2,P.K. Gupta,ECE,"Row 45, Rack 5",Available,,,,,False
+226,Electronic Devices & Circuits - Edition 2,Kenneth J. Ayala,ECE,"Row 46, Rack 1",Available,,,,,False
+227,Analog Communication - Edition 2,A.K. Sawhney,ECE,"Row 46, Rack 2",Available,,,,,False
+228,Digital Communication - Edition 2,Rangaraj M. Rangayyan,ECE,"Row 46, Rack 3",Available,,,,,False
+229,Control Systems - Edition 2,Dennis Roddy,ECE,"Row 46, Rack 4",Available,,,,,False
+230,Electromagnetics - Edition 2,C.A. Balanis,ECE,"Row 46, Rack 5",Available,,,,,False
+231,Linear Integrated Circuits - Edition 2,Neil Weste,ECE,"Row 47, Rack 1",Available,,,,,False
+232,Power Electronics - Edition 2,Zvi Kohavi,ECE,"Row 47, Rack 2",Available,,,,,False
+233,VLSI Design - Edition 2,Sanjit K. Mitra,ECE,"Row 47, Rack 3",Available,,,,,False
+234,Microwave Engineering - Edition 2,B.P. Lathi,ECE,"Row 47, Rack 4",Available,,,,,False
+235,Communication Systems - Edition 2,Ramesh Gaonkar,ECE,"Row 47, Rack 5",Available,,,,,False
+236,Optical Communication - Edition 2,John M. Rabaey,ECE,"Row 48, Rack 1",Available,,,,,False
+237,Digital Signal Processing - Edition 2,Vincent Del Toro,ECE,"Row 48, Rack 2",Available,,,,,False
+238,Wireless Communications - Edition 2,Samuel Y. Liao,ECE,"Row 48, Rack 3",Available,,,,,False
+239,Antenna Theory - Edition 2,Leon-Garcia,ECE,"Row 48, Rack 4",Available,,,,,False
+240,RF Engineering - Edition 2,Michael J. Pont,ECE,"Row 48, Rack 5",Available,,,,,False
+241,Basic Electrical Engineering - Edition 3,Saeed B. Niku,ECE,"Row 49, Rack 1",Available,,,,,False
+242,Network Analysis - Edition 3,Ronald J. Tocci,ECE,"Row 49, Rack 2",Available,,,,,False
+243,Signals and Systems - Edition 3,P.K. Sen,ECE,"Row 49, Rack 3",Available,,,,,False
+244,Digital Logic Design - Edition 3,Nagrath & Gopal,ECE,"Row 49, Rack 4",Available,,,,,False
+245,Microelectronics - Edition 3,A.K. Ray,ECE,"Row 49, Rack 5",Available,,,,,False
+246,Electronic Devices & Circuits - Edition 3,S. Haykin,ECE,"Row 50, Rack 1",Available,,,,,False
+247,Analog Communication - Edition 3,K. Ogata,ECE,"Row 50, Rack 2",Available,,,,,False
+248,Digital Communication - Edition 3,S. K. Mitra,ECE,"Row 50, Rack 3",Available,,,,,False
+249,Control Systems - Edition 3,H. Snyder,ECE,"Row 50, Rack 4",Available,,,,,False
+250,Electromagnetics - Edition 3,S. Ramo,ECE,"Row 50, Rack 5",Available,,,,,False
+251,Linear Integrated Circuits - Edition 3,V.K. Mehta,ECE,"Row 51, Rack 1",Available,,,,,False
+252,Power Electronics - Edition 3,M.E. Van Valkenburg,ECE,"Row 51, Rack 2",Available,,,,,False
+253,VLSI Design - Edition 3,Alan V. Oppenheim,ECE,"Row 51, Rack 3",Available,,,,,False
+254,Microwave Engineering - Edition 3,M. Morris Mano,ECE,"Row 51, Rack 4",Available,,,,,False
+255,Communication Systems - Edition 3,Sedra & Smith,ECE,"Row 51, Rack 5",Available,,,,,False
+256,Optical Communication - Edition 3,Boylestad,ECE,"Row 52, Rack 1",Available,,,,,False
+257,Digital Signal Processing - Edition 3,Simon Haykin,ECE,"Row 52, Rack 2",Available,,,,,False
+258,Wireless Communications - Edition 3,John G. Proakis,ECE,"Row 52, Rack 3",Available,,,,,False
+259,Antenna Theory - Edition 3,I.J. Nagrath,ECE,"Row 52, Rack 4",Available,,,,,False
+260,RF Engineering - Edition 3,W.H. Hayt,ECE,"Row 52, Rack 5",Available,,,,,False
+261,Basic Electrical Engineering - Edition 4,D. Roy Choudhury,ECE,"Row 53, Rack 1",Available,,,,,False
+262,Network Analysis - Edition 4,M.H. Rashid,ECE,"Row 53, Rack 2",Available,,,,,False
+263,Signals and Systems - Edition 4,Weste & Harris,ECE,"Row 53, Rack 3",Available,,,,,False
+264,Digital Logic Design - Edition 4,David M. Pozar,ECE,"Row 53, Rack 4",Available,,,,,False
+265,Microelectronics - Edition 4,R.P. Singh,ECE,"Row 53, Rack 5",Available,,,,,False
+266,Electronic Devices & Circuits - Edition 4,Gerd Keiser,ECE,"Row 54, Rack 1",Available,,,,,False
+267,Analog Communication - Edition 4,John G. Proakis,ECE,"Row 54, Rack 2",Available,,,,,False
+268,Digital Communication - Edition 4,Robert Boylestad,ECE,"Row 54, Rack 3",Available,,,,,False
+269,Control Systems - Edition 4,Theodore S. Rappaport,ECE,"Row 54, Rack 4",Available,,,,,False
+270,Electromagnetics - Edition 4,J. Chatterjee,ECE,"Row 54, Rack 5",Available,,,,,False
+271,Linear Integrated Circuits - Edition 4,Frank Vahid,ECE,"Row 55, Rack 1",Available,,,,,False
+272,Power Electronics - Edition 4,R.P. Jain,ECE,"Row 55, Rack 2",Available,,,,,False
+273,VLSI Design - Edition 4,Ben G. Streetman,ECE,"Row 55, Rack 3",Available,,,,,False
+274,Microwave Engineering - Edition 4,Grainger & Stevenson,ECE,"Row 55, Rack 4",Available,,,,,False
+275,Communication Systems - Edition 4,P.K. Gupta,ECE,"Row 55, Rack 5",Available,,,,,False
+276,Optical Communication - Edition 4,Kenneth J. Ayala,ECE,"Row 56, Rack 1",Available,,,,,False
+277,Digital Signal Processing - Edition 4,A.K. Sawhney,ECE,"Row 56, Rack 2",Available,,,,,False
+278,Wireless Communications - Edition 4,Rangaraj M. Rangayyan,ECE,"Row 56, Rack 3",Available,,,,,False
+279,Antenna Theory - Edition 4,Dennis Roddy,ECE,"Row 56, Rack 4",Available,,,,,False
+280,RF Engineering - Edition 4,C.A. Balanis,ECE,"Row 56, Rack 5",Available,,,,,False
+281,Basic Electrical Engineering - Edition 5,Neil Weste,ECE,"Row 57, Rack 1",Available,,,,,False
+282,Network Analysis - Edition 5,Zvi Kohavi,ECE,"Row 57, Rack 2",Available,,,,,False
+283,Signals and Systems - Edition 5,Sanjit K. Mitra,ECE,"Row 57, Rack 3",Available,,,,,False
+284,Digital Logic Design - Edition 5,B.P. Lathi,ECE,"Row 57, Rack 4",Available,,,,,False
+285,Microelectronics - Edition 5,Ramesh Gaonkar,ECE,"Row 57, Rack 5",Available,,,,,False
+286,Electronic Devices & Circuits - Edition 5,John M. Rabaey,ECE,"Row 58, Rack 1",Available,,,,,False
+287,Analog Communication - Edition 5,Vincent Del Toro,ECE,"Row 58, Rack 2",Available,,,,,False
+288,Digital Communication - Edition 5,Samuel Y. Liao,ECE,"Row 58, Rack 3",Available,,,,,False
+289,Control Systems - Edition 5,Leon-Garcia,ECE,"Row 58, Rack 4",Available,,,,,False
+290,Electromagnetics - Edition 5,Michael J. Pont,ECE,"Row 58, Rack 5",Available,,,,,False
+291,Linear Integrated Circuits - Edition 5,Saeed B. Niku,ECE,"Row 59, Rack 1",Available,,,,,False
+292,Power Electronics - Edition 5,Ronald J. Tocci,ECE,"Row 59, Rack 2",Available,,,,,False
+293,VLSI Design - Edition 5,P.K. Sen,ECE,"Row 59, Rack 3",Available,,,,,False
+294,Microwave Engineering - Edition 5,Nagrath & Gopal,ECE,"Row 59, Rack 4",Available,,,,,False
+295,Communication Systems - Edition 5,A.K. Ray,ECE,"Row 59, Rack 5",Available,,,,,False
+296,Optical Communication - Edition 5,S. Haykin,ECE,"Row 60, Rack 1",Available,,,,,False
+297,Digital Signal Processing - Edition 5,K. Ogata,ECE,"Row 60, Rack 2",Available,,,,,False
+298,Wireless Communications - Edition 5,S. K. Mitra,ECE,"Row 60, Rack 3",Available,,,,,False
+299,Antenna Theory - Edition 5,H. Snyder,ECE,"Row 60, Rack 4",Available,,,,,False
+300,RF Engineering - Edition 5,S. Ramo,ECE,"Row 60, Rack 5",Available,,,,,False
+301,Basic Electrical Engineering - Edition 6,V.K. Mehta,ECE,"Row 61, Rack 1",Available,,,,,False
+302,Network Analysis - Edition 6,M.E. Van Valkenburg,ECE,"Row 61, Rack 2",Available,,,,,False
+303,Signals and Systems - Edition 6,Alan V. Oppenheim,ECE,"Row 61, Rack 3",Available,,,,,False
+304,Digital Logic Design - Edition 6,M. Morris Mano,ECE,"Row 61, Rack 4",Available,,,,,False
+305,Microelectronics - Edition 6,Sedra & Smith,ECE,"Row 61, Rack 5",Available,,,,,False
+306,Electronic Devices & Circuits - Edition 6,Boylestad,ECE,"Row 62, Rack 1",Available,,,,,False
+307,Analog Communication - Edition 6,Simon Haykin,ECE,"Row 62, Rack 2",Available,,,,,False
+308,Digital Communication - Edition 6,John G. Proakis,ECE,"Row 62, Rack 3",Available,,,,,False
+309,Control Systems - Edition 6,I.J. Nagrath,ECE,"Row 62, Rack 4",Available,,,,,False
+310,Electromagnetics - Edition 6,W.H. Hayt,ECE,"Row 62, Rack 5",Available,,,,,False
+311,Linear Integrated Circuits - Edition 6,D. Roy Choudhury,ECE,"Row 63, Rack 1",Available,,,,,False
+312,Power Electronics - Edition 6,M.H. Rashid,ECE,"Row 63, Rack 2",Available,,,,,False
+313,VLSI Design - Edition 6,Weste & Harris,ECE,"Row 63, Rack 3",Available,,,,,False
+314,Microwave Engineering - Edition 6,David M. Pozar,ECE,"Row 63, Rack 4",Available,,,,,False
+315,Communication Systems - Edition 6,R.P. Singh,ECE,"Row 63, Rack 5",Available,,,,,False
+316,Optical Communication - Edition 6,Gerd Keiser,ECE,"Row 64, Rack 1",Available,,,,,False
+317,Digital Signal Processing - Edition 6,John G. Proakis,ECE,"Row 64, Rack 2",Available,,,,,False
+318,Wireless Communications - Edition 6,Robert Boylestad,ECE,"Row 64, Rack 3",Available,,,,,False
+319,Antenna Theory - Edition 6,Theodore S. Rappaport,ECE,"Row 64, Rack 4",Available,,,,,False
+320,RF Engineering - Edition 6,J. Chatterjee,ECE,"Row 64, Rack 5",Available,,,,,False
+321,Basic Electrical Engineering - Edition 7,Frank Vahid,ECE,"Row 65, Rack 1",Available,,,,,False
+322,Network Analysis - Edition 7,R.P. Jain,ECE,"Row 65, Rack 2",Available,,,,,False
+323,Signals and Systems - Edition 7,Ben G. Streetman,ECE,"Row 65, Rack 3",Available,,,,,False
+324,Digital Logic Design - Edition 7,Grainger & Stevenson,ECE,"Row 65, Rack 4",Available,,,,,False
+325,Microelectronics - Edition 7,P.K. Gupta,ECE,"Row 65, Rack 5",Available,,,,,False
+326,Electronic Devices & Circuits - Edition 7,Kenneth J. Ayala,ECE,"Row 66, Rack 1",Available,,,,,False
+327,Analog Communication - Edition 7,A.K. Sawhney,ECE,"Row 66, Rack 2",Available,,,,,False
+328,Digital Communication - Edition 7,Rangaraj M. Rangayyan,ECE,"Row 66, Rack 3",Available,,,,,False
+329,Control Systems - Edition 7,Dennis Roddy,ECE,"Row 66, Rack 4",Available,,,,,False
+330,Electromagnetics - Edition 7,C.A. Balanis,ECE,"Row 66, Rack 5",Available,,,,,False
+331,Linear Integrated Circuits - Edition 7,Neil Weste,ECE,"Row 67, Rack 1",Available,,,,,False
+332,Power Electronics - Edition 7,Zvi Kohavi,ECE,"Row 67, Rack 2",Available,,,,,False
+333,VLSI Design - Edition 7,Sanjit K. Mitra,ECE,"Row 67, Rack 3",Available,,,,,False
+334,Microwave Engineering - Edition 7,B.P. Lathi,ECE,"Row 67, Rack 4",Available,,,,,False
+335,Communication Systems - Edition 7,Ramesh Gaonkar,ECE,"Row 67, Rack 5",Available,,,,,False
+336,Optical Communication - Edition 7,John M. Rabaey,ECE,"Row 68, Rack 1",Available,,,,,False
+337,Digital Signal Processing - Edition 7,Vincent Del Toro,ECE,"Row 68, Rack 2",Available,,,,,False
+338,Wireless Communications - Edition 7,Samuel Y. Liao,ECE,"Row 68, Rack 3",Available,,,,,False
+339,Antenna Theory - Edition 7,Leon-Garcia,ECE,"Row 68, Rack 4",Available,,,,,False
+340,RF Engineering - Edition 7,Michael J. Pont,ECE,"Row 68, Rack 5",Available,,,,,False
+341,Basic Electrical Engineering - Edition 8,Saeed B. Niku,ECE,"Row 69, Rack 1",Available,,,,,False
+342,Network Analysis - Edition 8,Ronald J. Tocci,ECE,"Row 69, Rack 2",Available,,,,,False
+343,Signals and Systems - Edition 8,P.K. Sen,ECE,"Row 69, Rack 3",Borrowed,513122106082.0,513122106076.0,,,False
+344,Digital Logic Design - Edition 8,Nagrath & Gopal,ECE,"Row 69, Rack 4",Available,,,,,False
+345,Microelectronics - Edition 8,A.K. Ray,ECE,"Row 69, Rack 5",Available,,,,,False
+346,Electronic Devices & Circuits - Edition 8,S. Haykin,ECE,"Row 70, Rack 1",Available,,,,,False
+347,Analog Communication - Edition 8,K. Ogata,ECE,"Row 70, Rack 2",Available,,,,,False
+348,Digital Communication - Edition 8,S. K. Mitra,ECE,"Row 70, Rack 3",Available,,,,,False
+349,Control Systems - Edition 8,H. Snyder,ECE,"Row 70, Rack 4",Available,,,,,False
+350,Electromagnetics - Edition 8,S. Ramo,ECE,"Row 70, Rack 5",Available,,,,,False
+351,Linear Integrated Circuits - Edition 8,V.K. Mehta,ECE,"Row 71, Rack 1",Available,,,,,False
+352,Power Electronics - Edition 8,M.E. Van Valkenburg,ECE,"Row 71, Rack 2",Available,,,,,False
+353,VLSI Design - Edition 8,Alan V. Oppenheim,ECE,"Row 71, Rack 3",Available,,,,,False
+354,Microwave Engineering - Edition 8,M. Morris Mano,ECE,"Row 71, Rack 4",Available,,,,,False
+355,Communication Systems - Edition 8,Sedra & Smith,ECE,"Row 71, Rack 5",Available,,,,,False
+356,Optical Communication - Edition 8,Boylestad,ECE,"Row 72, Rack 1",Available,,,,,False
+357,Digital Signal Processing - Edition 8,Simon Haykin,ECE,"Row 72, Rack 2",Available,,,,,False
+358,Wireless Communications - Edition 8,John G. Proakis,ECE,"Row 72, Rack 3",Available,,,,,False
+359,Antenna Theory - Edition 8,I.J. Nagrath,ECE,"Row 72, Rack 4",Available,,,,,False
+360,RF Engineering - Edition 8,W.H. Hayt,ECE,"Row 72, Rack 5",Available,,,,,False
+361,Basic Electrical Engineering - Edition 9,D. Roy Choudhury,ECE,"Row 73, Rack 1",Available,,,,,False
+362,Network Analysis - Edition 9,M.H. Rashid,ECE,"Row 73, Rack 2",Available,,,,,False
+363,Signals and Systems - Edition 9,Weste & Harris,ECE,"Row 73, Rack 3",Available,,,,,False
+364,Digital Logic Design - Edition 9,David M. Pozar,ECE,"Row 73, Rack 4",Available,,,,,False
+365,Microelectronics - Edition 9,R.P. Singh,ECE,"Row 73, Rack 5",Available,,,,,False
+366,Electronic Devices & Circuits - Edition 9,Gerd Keiser,ECE,"Row 74, Rack 1",Available,,,,,False
+367,Analog Communication - Edition 9,John G. Proakis,ECE,"Row 74, Rack 2",Available,,,,,False
+368,Digital Communication - Edition 9,Robert Boylestad,ECE,"Row 74, Rack 3",Available,,,,,False
+369,Control Systems - Edition 9,Theodore S. Rappaport,ECE,"Row 74, Rack 4",Available,,,,,False
+370,Electromagnetics - Edition 9,J. Chatterjee,ECE,"Row 74, Rack 5",Available,,,,,False
+371,Linear Integrated Circuits - Edition 9,Frank Vahid,ECE,"Row 75, Rack 1",Available,,,,,False
+372,Power Electronics - Edition 9,R.P. Jain,ECE,"Row 75, Rack 2",Available,,,,,False
+373,VLSI Design - Edition 9,Ben G. Streetman,ECE,"Row 75, Rack 3",Available,,,,,False
+374,Microwave Engineering - Edition 9,Grainger & Stevenson,ECE,"Row 75, Rack 4",Available,,,,,False
+375,Communication Systems - Edition 9,P.K. Gupta,ECE,"Row 75, Rack 5",Available,,,,,False
+376,Optical Communication - Edition 9,Kenneth J. Ayala,ECE,"Row 76, Rack 1",Available,,,,,False
+377,Digital Signal Processing - Edition 9,A.K. Sawhney,ECE,"Row 76, Rack 2",Available,,,,,False
+378,Wireless Communications - Edition 9,Rangaraj M. Rangayyan,ECE,"Row 76, Rack 3",Available,,,,,False
+379,Antenna Theory - Edition 9,Dennis Roddy,ECE,"Row 76, Rack 4",Available,,,,,False
+380,RF Engineering - Edition 9,C.A. Balanis,ECE,"Row 76, Rack 5",Available,,,,,False
+381,Basic Electrical Engineering - Edition 10,Neil Weste,ECE,"Row 77, Rack 1",Available,,,,,False
+382,Network Analysis - Edition 10,Zvi Kohavi,ECE,"Row 77, Rack 2",Available,,,,,False
+383,Signals and Systems - Edition 10,Sanjit K. Mitra,ECE,"Row 77, Rack 3",Available,,,,,False
+384,Digital Logic Design - Edition 10,B.P. Lathi,ECE,"Row 77, Rack 4",Available,,,,,False
+385,Microelectronics - Edition 10,Ramesh Gaonkar,ECE,"Row 77, Rack 5",Available,,,,,False
+386,Electronic Devices & Circuits - Edition 10,John M. Rabaey,ECE,"Row 78, Rack 1",Available,,,,,False
+387,Analog Communication - Edition 10,Vincent Del Toro,ECE,"Row 78, Rack 2",Available,,,,,False
+388,Digital Communication - Edition 10,Samuel Y. Liao,ECE,"Row 78, Rack 3",Available,,,,,False
+389,Control Systems - Edition 10,Leon-Garcia,ECE,"Row 78, Rack 4",Available,,,,,False
+390,Electromagnetics - Edition 10,Michael J. Pont,ECE,"Row 78, Rack 5",Available,,,,,False
+391,Linear Integrated Circuits - Edition 10,Saeed B. Niku,ECE,"Row 79, Rack 1",Available,,,,,False
+392,Power Electronics - Edition 10,Ronald J. Tocci,ECE,"Row 79, Rack 2",Available,,,,,False
+393,VLSI Design - Edition 10,P.K. Sen,ECE,"Row 79, Rack 3",Available,,,,,False
+394,Microwave Engineering - Edition 10,Nagrath & Gopal,ECE,"Row 79, Rack 4",Available,,,,,False
+395,Communication Systems - Edition 10,A.K. Ray,ECE,"Row 79, Rack 5",Available,,,,,False
+396,Optical Communication - Edition 10,S. Haykin,ECE,"Row 80, Rack 1",Available,,,,,False
+397,Digital Signal Processing - Edition 10,K. Ogata,ECE,"Row 80, Rack 2",Available,,,,,False
+398,Wireless Communications - Edition 10,S. K. Mitra,ECE,"Row 80, Rack 3",Available,,,,,False
+399,Antenna Theory - Edition 10,H. Snyder,ECE,"Row 80, Rack 4",Available,,,,,False
+400,RF Engineering - Edition 10,S. Ramo,ECE,"Row 80, Rack 5",Available,,,,,False
+401,Circuit Theory,A. Chakrabarti,EEE,"Row 81, Rack 1",Available,,,,,False
+402,Electrical Machines,B. L. Theraja,EEE,"Row 81, Rack 2",Available,,,,,False
+403,Power Systems,P. K. Nag,EEE,"Row 81, Rack 3",Available,,,,,False
+404,Control Systems,J. Duncan,EEE,"Row 81, Rack 4",Available,,,,,False
+405,Power Electronics,M. H. Rashid,EEE,"Row 81, Rack 5",Available,,,,,False
+406,Switchgear and Protection,S. N. Singh,EEE,"Row 82, Rack 1",Available,,,,,False
+407,Electrical Measurements,H. Cotton,EEE,"Row 82, Rack 2",Available,,,,,False
+408,Renewable Energy Systems,Nagrath & Gopal,EEE,"Row 82, Rack 3",Available,,,,,False
+409,Smart Grid,G. K. Dubey,EEE,"Row 82, Rack 4",Available,,,,,False
+410,Power System Analysis,P. S. Bimbhra,EEE,"Row 82, Rack 5",Available,,,,,False
+411,High Voltage Engineering,J. J. Grainger,EEE,"Row 83, Rack 1",Available,,,,,False
+412,Instrumentation,W. D. Stevenson,EEE,"Row 83, Rack 2",Available,,,,,False
+413,Analog Electronics,R. K. Rajput,EEE,"Row 83, Rack 3",Available,,,,,False
+414,Digital Electronics,S. K. Bhattacharya,EEE,"Row 83, Rack 4",Available,,,,,False
+415,Microgrids,M. G. Say,EEE,"Row 83, Rack 5",Available,,,,,False
+416,Power System Protection,R. Krishnan,EEE,"Row 84, Rack 1",Available,,,,,False
+417,Electric Drives,T. Wildi,EEE,"Row 84, Rack 2",Available,,,,,False
+418,Signals and Systems,D. P. Kothari,EEE,"Row 84, Rack 3",Available,,,,,False
+419,Electrical Materials,I. J. Nagrath,EEE,"Row 84, Rack 4",Available,,,,,False
+420,Embedded Systems,B. G. Streetman,EEE,"Row 84, Rack 5",Available,,,,,False
+421,Circuit Theory - Edition 2,A. E. Fitzgerald,EEE,"Row 85, Rack 1",Available,,,,,False
+422,Electrical Machines - Edition 2,J. J. Nilsson,EEE,"Row 85, Rack 2",Available,,,,,False
+423,Power Systems - Edition 2,B. K. Bose,EEE,"Row 85, Rack 3",Available,,,,,False
+424,Control Systems - Edition 2,V. Del Toro,EEE,"Row 85, Rack 4",Available,,,,,False
+425,Power Electronics - Edition 2,S. S. Rao,EEE,"Row 85, Rack 5",Available,,,,,False
+426,Switchgear and Protection - Edition 2,Kothari & Nagrath,EEE,"Row 86, Rack 1",Available,,,,,False
+427,Electrical Measurements - Edition 2,C. L. Wadhwa,EEE,"Row 86, Rack 2",Available,,,,,False
+428,Renewable Energy Systems - Edition 2,S. K. Gupta,EEE,"Row 86, Rack 3",Available,,,,,False
+429,Smart Grid - Edition 2,S. K. Bhattacharya,EEE,"Row 86, Rack 4",Available,,,,,False
+430,Power System Analysis - Edition 2,P. S. R. Murthy,EEE,"Row 86, Rack 5",Available,,,,,False
+431,High Voltage Engineering - Edition 2,R. M. Nelms,EEE,"Row 87, Rack 1",Available,,,,,False
+432,Instrumentation - Edition 2,H. Saadat,EEE,"Row 87, Rack 2",Available,,,,,False
+433,Analog Electronics - Edition 2,J. Holtz,EEE,"Row 87, Rack 3",Available,,,,,False
+434,Digital Electronics - Edition 2,R. L. Boylestad,EEE,"Row 87, Rack 4",Available,,,,,False
+435,Microgrids - Edition 2,W. H. Hayt,EEE,"Row 87, Rack 5",Available,,,,,False
+436,Power System Protection - Edition 2,A. Chakrabarti,EEE,"Row 88, Rack 1",Available,,,,,False
+437,Electric Drives - Edition 2,B. L. Theraja,EEE,"Row 88, Rack 2",Available,,,,,False
+438,Signals and Systems - Edition 2,P. K. Nag,EEE,"Row 88, Rack 3",Available,,,,,False
+439,Electrical Materials - Edition 2,J. Duncan,EEE,"Row 88, Rack 4",Available,,,,,False
+440,Embedded Systems - Edition 2,M. H. Rashid,EEE,"Row 88, Rack 5",Available,,,,,False
+441,Circuit Theory - Edition 3,S. N. Singh,EEE,"Row 89, Rack 1",Available,,,,,False
+442,Electrical Machines - Edition 3,H. Cotton,EEE,"Row 89, Rack 2",Available,,,,,False
+443,Power Systems - Edition 3,Nagrath & Gopal,EEE,"Row 89, Rack 3",Available,,,,,False
+444,Control Systems - Edition 3,G. K. Dubey,EEE,"Row 89, Rack 4",Available,,,,,False
+445,Power Electronics - Edition 3,P. S. Bimbhra,EEE,"Row 89, Rack 5",Available,,,,,False
+446,Switchgear and Protection - Edition 3,J. J. Grainger,EEE,"Row 90, Rack 1",Available,,,,,False
+447,Electrical Measurements - Edition 3,W. D. Stevenson,EEE,"Row 90, Rack 2",Available,,,,,False
+448,Renewable Energy Systems - Edition 3,R. K. Rajput,EEE,"Row 90, Rack 3",Available,,,,,False
+449,Smart Grid - Edition 3,S. K. Bhattacharya,EEE,"Row 90, Rack 4",Available,,,,,False
+450,Power System Analysis - Edition 3,M. G. Say,EEE,"Row 90, Rack 5",Available,,,,,False
+451,High Voltage Engineering - Edition 3,R. Krishnan,EEE,"Row 91, Rack 1",Available,,,,,False
+452,Instrumentation - Edition 3,T. Wildi,EEE,"Row 91, Rack 2",Available,,,,,False
+453,Analog Electronics - Edition 3,D. P. Kothari,EEE,"Row 91, Rack 3",Available,,,,,False
+454,Digital Electronics - Edition 3,I. J. Nagrath,EEE,"Row 91, Rack 4",Available,,,,,False
+455,Microgrids - Edition 3,B. G. Streetman,EEE,"Row 91, Rack 5",Available,,,,,False
+456,Power System Protection - Edition 3,A. E. Fitzgerald,EEE,"Row 92, Rack 1",Available,,,,,False
+457,Electric Drives - Edition 3,J. J. Nilsson,EEE,"Row 92, Rack 2",Available,,,,,False
+458,Signals and Systems - Edition 3,B. K. Bose,EEE,"Row 92, Rack 3",Available,,,,,False
+459,Electrical Materials - Edition 3,V. Del Toro,EEE,"Row 92, Rack 4",Available,,,,,False
+460,Embedded Systems - Edition 3,S. S. Rao,EEE,"Row 92, Rack 5",Available,,,,,False
+461,Circuit Theory - Edition 4,Kothari & Nagrath,EEE,"Row 93, Rack 1",Available,,,,,False
+462,Electrical Machines - Edition 4,C. L. Wadhwa,EEE,"Row 93, Rack 2",Available,,,,,False
+463,Power Systems - Edition 4,S. K. Gupta,EEE,"Row 93, Rack 3",Available,,,,,False
+464,Control Systems - Edition 4,S. K. Bhattacharya,EEE,"Row 93, Rack 4",Available,,,,,False
+465,Power Electronics - Edition 4,P. S. R. Murthy,EEE,"Row 93, Rack 5",Available,,,,,False
+466,Switchgear and Protection - Edition 4,R. M. Nelms,EEE,"Row 94, Rack 1",Available,,,,,False
+467,Electrical Measurements - Edition 4,H. Saadat,EEE,"Row 94, Rack 2",Available,,,,,False
+468,Renewable Energy Systems - Edition 4,J. Holtz,EEE,"Row 94, Rack 3",Available,,,,,False
+469,Smart Grid - Edition 4,R. L. Boylestad,EEE,"Row 94, Rack 4",Available,,,,,False
+470,Power System Analysis - Edition 4,W. H. Hayt,EEE,"Row 94, Rack 5",Available,,,,,False
+471,High Voltage Engineering - Edition 4,A. Chakrabarti,EEE,"Row 95, Rack 1",Available,,,,,False
+472,Instrumentation - Edition 4,B. L. Theraja,EEE,"Row 95, Rack 2",Available,,,,,False
+473,Analog Electronics - Edition 4,P. K. Nag,EEE,"Row 95, Rack 3",Available,,,,,False
+474,Digital Electronics - Edition 4,J. Duncan,EEE,"Row 95, Rack 4",Available,,,,,False
+475,Microgrids - Edition 4,M. H. Rashid,EEE,"Row 95, Rack 5",Available,,,,,False
+476,Power System Protection - Edition 4,S. N. Singh,EEE,"Row 96, Rack 1",Available,,,,,False
+477,Electric Drives - Edition 4,H. Cotton,EEE,"Row 96, Rack 2",Available,,,,,False
+478,Signals and Systems - Edition 4,Nagrath & Gopal,EEE,"Row 96, Rack 3",Available,,,,,False
+479,Electrical Materials - Edition 4,G. K. Dubey,EEE,"Row 96, Rack 4",Available,,,,,False
+480,Embedded Systems - Edition 4,P. S. Bimbhra,EEE,"Row 96, Rack 5",Available,,,,,False
+481,Circuit Theory - Edition 5,J. J. Grainger,EEE,"Row 97, Rack 1",Available,,,,,False
+482,Electrical Machines - Edition 5,W. D. Stevenson,EEE,"Row 97, Rack 2",Available,,,,,False
+483,Power Systems - Edition 5,R. K. Rajput,EEE,"Row 97, Rack 3",Available,,,,,False
+484,Control Systems - Edition 5,S. K. Bhattacharya,EEE,"Row 97, Rack 4",Available,,,,,False
+485,Power Electronics - Edition 5,M. G. Say,EEE,"Row 97, Rack 5",Available,,,,,False
+486,Switchgear and Protection - Edition 5,R. Krishnan,EEE,"Row 98, Rack 1",Available,,,,,False
+487,Electrical Measurements - Edition 5,T. Wildi,EEE,"Row 98, Rack 2",Available,,,,,False
+488,Renewable Energy Systems - Edition 5,D. P. Kothari,EEE,"Row 98, Rack 3",Available,,,,,False
+489,Smart Grid - Edition 5,I. J. Nagrath,EEE,"Row 98, Rack 4",Available,,,,,False
+490,Power System Analysis - Edition 5,B. G. Streetman,EEE,"Row 98, Rack 5",Available,,,,,False
+491,High Voltage Engineering - Edition 5,A. E. Fitzgerald,EEE,"Row 99, Rack 1",Available,,,,,False
+492,Instrumentation - Edition 5,J. J. Nilsson,EEE,"Row 99, Rack 2",Available,,,,,False
+493,Analog Electronics - Edition 5,B. K. Bose,EEE,"Row 99, Rack 3",Available,,,,,False
+494,Digital Electronics - Edition 5,V. Del Toro,EEE,"Row 99, Rack 4",Available,,,,,False
+495,Microgrids - Edition 5,S. S. Rao,EEE,"Row 99, Rack 5",Available,,,,,False
+496,Power System Protection - Edition 5,Kothari & Nagrath,EEE,"Row 100, Rack 1",Available,,,,,False
+497,Electric Drives - Edition 5,C. L. Wadhwa,EEE,"Row 100, Rack 2",Available,,,,,False
+498,Signals and Systems - Edition 5,S. K. Gupta,EEE,"Row 100, Rack 3",Available,,,,,False
+499,Electrical Materials - Edition 5,S. K. Bhattacharya,EEE,"Row 100, Rack 4",Available,,,,,False
+500,Embedded Systems - Edition 5,P. S. R. Murthy,EEE,"Row 100, Rack 5",Available,,,,,False
+501,Circuit Theory - Edition 6,R. M. Nelms,EEE,"Row 101, Rack 1",Available,,,,,False
+502,Electrical Machines - Edition 6,H. Saadat,EEE,"Row 101, Rack 2",Available,,,,,False
+503,Power Systems - Edition 6,J. Holtz,EEE,"Row 101, Rack 3",Available,,,,,False
+504,Control Systems - Edition 6,R. L. Boylestad,EEE,"Row 101, Rack 4",Available,,,,,False
+505,Power Electronics - Edition 6,W. H. Hayt,EEE,"Row 101, Rack 5",Available,,,,,False
+506,Switchgear and Protection - Edition 6,A. Chakrabarti,EEE,"Row 102, Rack 1",Available,,,,,False
+507,Electrical Measurements - Edition 6,B. L. Theraja,EEE,"Row 102, Rack 2",Available,,,,,False
+508,Renewable Energy Systems - Edition 6,P. K. Nag,EEE,"Row 102, Rack 3",Available,,,,,False
+509,Smart Grid - Edition 6,J. Duncan,EEE,"Row 102, Rack 4",Available,,,,,False
+510,Power System Analysis - Edition 6,M. H. Rashid,EEE,"Row 102, Rack 5",Available,,,,,False
+511,High Voltage Engineering - Edition 6,S. N. Singh,EEE,"Row 103, Rack 1",Available,,,,,False
+512,Instrumentation - Edition 6,H. Cotton,EEE,"Row 103, Rack 2",Available,,,,,False
+513,Analog Electronics - Edition 6,Nagrath & Gopal,EEE,"Row 103, Rack 3",Available,,,,,False
+514,Digital Electronics - Edition 6,G. K. Dubey,EEE,"Row 103, Rack 4",Available,,,,,False
+515,Microgrids - Edition 6,P. S. Bimbhra,EEE,"Row 103, Rack 5",Available,,,,,False
+516,Power System Protection - Edition 6,J. J. Grainger,EEE,"Row 104, Rack 1",Available,,,,,False
+517,Electric Drives - Edition 6,W. D. Stevenson,EEE,"Row 104, Rack 2",Available,,,,,False
+518,Signals and Systems - Edition 6,R. K. Rajput,EEE,"Row 104, Rack 3",Available,,,,,False
+519,Electrical Materials - Edition 6,S. K. Bhattacharya,EEE,"Row 104, Rack 4",Available,,,,,False
+520,Embedded Systems - Edition 6,M. G. Say,EEE,"Row 104, Rack 5",Available,,,,,False
+521,Circuit Theory - Edition 7,R. Krishnan,EEE,"Row 105, Rack 1",Available,,,,,False
+522,Electrical Machines - Edition 7,T. Wildi,EEE,"Row 105, Rack 2",Available,,,,,False
+523,Power Systems - Edition 7,D. P. Kothari,EEE,"Row 105, Rack 3",Available,,,,,False
+524,Control Systems - Edition 7,I. J. Nagrath,EEE,"Row 105, Rack 4",Available,,,,,False
+525,Power Electronics - Edition 7,B. G. Streetman,EEE,"Row 105, Rack 5",Available,,,,,False
+526,Switchgear and Protection - Edition 7,A. E. Fitzgerald,EEE,"Row 106, Rack 1",Available,,,,,False
+527,Electrical Measurements - Edition 7,J. J. Nilsson,EEE,"Row 106, Rack 2",Available,,,,,False
+528,Renewable Energy Systems - Edition 7,B. K. Bose,EEE,"Row 106, Rack 3",Available,,,,,False
+529,Smart Grid - Edition 7,V. Del Toro,EEE,"Row 106, Rack 4",Available,,,,,False
+530,Power System Analysis - Edition 7,S. S. Rao,EEE,"Row 106, Rack 5",Available,,,,,False
+531,High Voltage Engineering - Edition 7,Kothari & Nagrath,EEE,"Row 107, Rack 1",Available,,,,,False
+532,Instrumentation - Edition 7,C. L. Wadhwa,EEE,"Row 107, Rack 2",Available,,,,,False
+533,Analog Electronics - Edition 7,S. K. Gupta,EEE,"Row 107, Rack 3",Available,,,,,False
+534,Digital Electronics - Edition 7,S. K. Bhattacharya,EEE,"Row 107, Rack 4",Available,,,,,False
+535,Microgrids - Edition 7,P. S. R. Murthy,EEE,"Row 107, Rack 5",Available,,,,,False
+536,Power System Protection - Edition 7,R. M. Nelms,EEE,"Row 108, Rack 1",Available,,,,,False
+537,Electric Drives - Edition 7,H. Saadat,EEE,"Row 108, Rack 2",Available,,,,,False
+538,Signals and Systems - Edition 7,J. Holtz,EEE,"Row 108, Rack 3",Available,,,,,False
+539,Electrical Materials - Edition 7,R. L. Boylestad,EEE,"Row 108, Rack 4",Available,,,,,False
+540,Embedded Systems - Edition 7,W. H. Hayt,EEE,"Row 108, Rack 5",Available,,,,,False
+541,Circuit Theory - Edition 8,A. Chakrabarti,EEE,"Row 109, Rack 1",Available,,,,,False
+542,Electrical Machines - Edition 8,B. L. Theraja,EEE,"Row 109, Rack 2",Available,,,,,False
+543,Power Systems - Edition 8,P. K. Nag,EEE,"Row 109, Rack 3",Available,,,,,False
+544,Control Systems - Edition 8,J. Duncan,EEE,"Row 109, Rack 4",Available,,,,,False
+545,Power Electronics - Edition 8,M. H. Rashid,EEE,"Row 109, Rack 5",Available,,,,,False
+546,Switchgear and Protection - Edition 8,S. N. Singh,EEE,"Row 110, Rack 1",Available,,,,,False
+547,Electrical Measurements - Edition 8,H. Cotton,EEE,"Row 110, Rack 2",Available,,,,,False
+548,Renewable Energy Systems - Edition 8,Nagrath & Gopal,EEE,"Row 110, Rack 3",Available,,,,,False
+549,Smart Grid - Edition 8,G. K. Dubey,EEE,"Row 110, Rack 4",Available,,,,,False
+550,Power System Analysis - Edition 8,P. S. Bimbhra,EEE,"Row 110, Rack 5",Available,,,,,False
+551,High Voltage Engineering - Edition 8,J. J. Grainger,EEE,"Row 111, Rack 1",Available,,,,,False
+552,Instrumentation - Edition 8,W. D. Stevenson,EEE,"Row 111, Rack 2",Available,,,,,False
+553,Analog Electronics - Edition 8,R. K. Rajput,EEE,"Row 111, Rack 3",Available,,,,,False
+554,Digital Electronics - Edition 8,S. K. Bhattacharya,EEE,"Row 111, Rack 4",Available,,,,,False
+555,Microgrids - Edition 8,M. G. Say,EEE,"Row 111, Rack 5",Available,,,,,False
+556,Power System Protection - Edition 8,R. Krishnan,EEE,"Row 112, Rack 1",Available,,,,,False
+557,Electric Drives - Edition 8,T. Wildi,EEE,"Row 112, Rack 2",Available,,,,,False
+558,Signals and Systems - Edition 8,D. P. Kothari,EEE,"Row 112, Rack 3",Available,,,,,False
+559,Electrical Materials - Edition 8,I. J. Nagrath,EEE,"Row 112, Rack 4",Available,,,,,False
+560,Embedded Systems - Edition 8,B. G. Streetman,EEE,"Row 112, Rack 5",Available,,,,,False
+561,Circuit Theory - Edition 9,A. E. Fitzgerald,EEE,"Row 113, Rack 1",Available,,,,,False
+562,Electrical Machines - Edition 9,J. J. Nilsson,EEE,"Row 113, Rack 2",Available,,,,,False
+563,Power Systems - Edition 9,B. K. Bose,EEE,"Row 113, Rack 3",Available,,,,,False
+564,Control Systems - Edition 9,V. Del Toro,EEE,"Row 113, Rack 4",Available,,,,,False
+565,Power Electronics - Edition 9,S. S. Rao,EEE,"Row 113, Rack 5",Available,,,,,False
+566,Switchgear and Protection - Edition 9,Kothari & Nagrath,EEE,"Row 114, Rack 1",Available,,,,,False
+567,Electrical Measurements - Edition 9,C. L. Wadhwa,EEE,"Row 114, Rack 2",Available,,,,,False
+568,Renewable Energy Systems - Edition 9,S. K. Gupta,EEE,"Row 114, Rack 3",Available,,,,,False
+569,Smart Grid - Edition 9,S. K. Bhattacharya,EEE,"Row 114, Rack 4",Available,,,,,False
+570,Power System Analysis - Edition 9,P. S. R. Murthy,EEE,"Row 114, Rack 5",Available,,,,,False
+571,High Voltage Engineering - Edition 9,R. M. Nelms,EEE,"Row 115, Rack 1",Available,,,,,False
+572,Instrumentation - Edition 9,H. Saadat,EEE,"Row 115, Rack 2",Available,,,,,False
+573,Analog Electronics - Edition 9,J. Holtz,EEE,"Row 115, Rack 3",Available,,,,,False
+574,Digital Electronics - Edition 9,R. L. Boylestad,EEE,"Row 115, Rack 4",Available,,,,,False
+575,Microgrids - Edition 9,W. H. Hayt,EEE,"Row 115, Rack 5",Available,,,,,False
+576,Power System Protection - Edition 9,A. Chakrabarti,EEE,"Row 116, Rack 1",Available,,,,,False
+577,Electric Drives - Edition 9,B. L. Theraja,EEE,"Row 116, Rack 2",Available,,,,,False
+578,Signals and Systems - Edition 9,P. K. Nag,EEE,"Row 116, Rack 3",Available,,,,,False
+579,Electrical Materials - Edition 9,J. Duncan,EEE,"Row 116, Rack 4",Available,,,,,False
+580,Embedded Systems - Edition 9,M. H. Rashid,EEE,"Row 116, Rack 5",Available,,,,,False
+581,Circuit Theory - Edition 10,S. N. Singh,EEE,"Row 117, Rack 1",Available,,,,,False
+582,Electrical Machines - Edition 10,H. Cotton,EEE,"Row 117, Rack 2",Available,,,,,False
+583,Power Systems - Edition 10,Nagrath & Gopal,EEE,"Row 117, Rack 3",Available,,,,,False
+584,Control Systems - Edition 10,G. K. Dubey,EEE,"Row 117, Rack 4",Available,,,,,False
+585,Power Electronics - Edition 10,P. S. Bimbhra,EEE,"Row 117, Rack 5",Available,,,,,False
+586,Switchgear and Protection - Edition 10,J. J. Grainger,EEE,"Row 118, Rack 1",Available,,,,,False
+587,Electrical Measurements - Edition 10,W. D. Stevenson,EEE,"Row 118, Rack 2",Available,,,,,False
+588,Renewable Energy Systems - Edition 10,R. K. Rajput,EEE,"Row 118, Rack 3",Available,,,,,False
+589,Smart Grid - Edition 10,S. K. Bhattacharya,EEE,"Row 118, Rack 4",Available,,,,,False
+590,Power System Analysis - Edition 10,M. G. Say,EEE,"Row 118, Rack 5",Available,,,,,False
+591,High Voltage Engineering - Edition 10,R. Krishnan,EEE,"Row 119, Rack 1",Available,,,,,False
+592,Instrumentation - Edition 10,T. Wildi,EEE,"Row 119, Rack 2",Available,,,,,False
+593,Analog Electronics - Edition 10,D. P. Kothari,EEE,"Row 119, Rack 3",Available,,,,,False
+594,Digital Electronics - Edition 10,I. J. Nagrath,EEE,"Row 119, Rack 4",Available,,,,,False
+595,Microgrids - Edition 10,B. G. Streetman,EEE,"Row 119, Rack 5",Available,,,,,False
+596,Power System Protection - Edition 10,A. E. Fitzgerald,EEE,"Row 120, Rack 1",Available,,,,,False
+597,Electric Drives - Edition 10,J. J. Nilsson,EEE,"Row 120, Rack 2",Available,,,,,False
+598,Signals and Systems - Edition 10,B. K. Bose,EEE,"Row 120, Rack 3",Available,,,,,False
+599,Electrical Materials - Edition 10,V. Del Toro,EEE,"Row 120, Rack 4",Available,,,,,False
+600,Embedded Systems - Edition 10,S. S. Rao,EEE,"Row 120, Rack 5",Available,,,,,False
+601,Engineering Mechanics,R. K. Bansal,MECH,"Row 121, Rack 1",Available,,,,,False
+602,Strength of Materials,R. S. Khurmi,MECH,"Row 121, Rack 2",Available,,,,,False
+603,Thermodynamics,P. K. Nag,MECH,"Row 121, Rack 3",Available,,,,,False
+604,Fluid Mechanics,J. E. Shigley,MECH,"Row 121, Rack 4",Available,,,,,False
+605,Machine Design,R. K. Rajput,MECH,"Row 121, Rack 5",Available,,,,,False
+606,Manufacturing Technology,M. P. Groover,MECH,"Row 122, Rack 1",Available,,,,,False
+607,Mechanics of Materials,S. M. Shah,MECH,"Row 122, Rack 2",Available,,,,,False
+608,Dynamics of Machinery,Asok Kumar Mallik,MECH,"Row 122, Rack 3",Available,,,,,False
+609,Heat Transfer,S. S. Rattan,MECH,"Row 122, Rack 4",Available,,,,,False
+610,CAD/CAM,R. K. Jain,MECH,"Row 122, Rack 5",Available,,,,,False
+611,Mechatronics,P. N. Rao,MECH,"Row 123, Rack 1",Available,,,,,False
+612,Automobile Engineering,F. P. Beer,MECH,"Row 123, Rack 2",Available,,,,,False
+613,Industrial Engineering,E. R. Johnston,MECH,"Row 123, Rack 3",Available,,,,,False
+614,Robotics,H. B. Callen,MECH,"Row 123, Rack 4",Available,,,,,False
+615,Engineering Materials,J. A. Schey,MECH,"Row 123, Rack 5",Available,,,,,False
+616,Production Technology,Saeed B. Niku,MECH,"Row 124, Rack 1",Available,,,,,False
+617,Operations Research,S. P. Venkateshan,MECH,"Row 124, Rack 2",Available,,,,,False
+618,Engineering Drawing,G. K. Lal,MECH,"Row 124, Rack 3",Available,,,,,False
+619,Kinematics,S. K. Hajra,MECH,"Row 124, Rack 4",Available,,,,,False
+620,Tribology,W. Bolton,MECH,"Row 124, Rack 5",Available,,,,,False
+621,Engineering Mechanics - Edition 2,R. Hibbeler,MECH,"Row 125, Rack 1",Available,,,,,False
+622,Strength of Materials - Edition 2,T. Goodfellow,MECH,"Row 125, Rack 2",Available,,,,,False
+623,Thermodynamics - Edition 2,J. P. Holman,MECH,"Row 125, Rack 3",Available,,,,,False
+624,Fluid Mechanics - Edition 2,R. C. Hibbeler,MECH,"Row 125, Rack 4",Available,,,,,False
+625,Machine Design - Edition 2,M. F. Ashby,MECH,"Row 125, Rack 5",Available,,,,,False
+626,Manufacturing Technology - Edition 2,K. G. Budynas,MECH,"Row 126, Rack 1",Available,,,,,False
+627,Mechanics of Materials - Edition 2,A. K. Ghose,MECH,"Row 126, Rack 2",Available,,,,,False
+628,Dynamics of Machinery - Edition 2,S. K. Som,MECH,"Row 126, Rack 3",Available,,,,,False
+629,Heat Transfer - Edition 2,R. K. Bansal,MECH,"Row 126, Rack 4",Available,,,,,False
+630,CAD/CAM - Edition 2,R. S. Khurmi,MECH,"Row 126, Rack 5",Available,,,,,False
+631,Mechatronics - Edition 2,P. K. Nag,MECH,"Row 127, Rack 1",Available,,,,,False
+632,Automobile Engineering - Edition 2,J. E. Shigley,MECH,"Row 127, Rack 2",Available,,,,,False
+633,Industrial Engineering - Edition 2,R. K. Rajput,MECH,"Row 127, Rack 3",Available,,,,,False
+634,Robotics - Edition 2,M. P. Groover,MECH,"Row 127, Rack 4",Available,,,,,False
+635,Engineering Materials - Edition 2,S. M. Shah,MECH,"Row 127, Rack 5",Available,,,,,False
+636,Production Technology - Edition 2,Asok Kumar Mallik,MECH,"Row 128, Rack 1",Available,,,,,False
+637,Operations Research - Edition 2,S. S. Rattan,MECH,"Row 128, Rack 2",Available,,,,,False
+638,Engineering Drawing - Edition 2,R. K. Jain,MECH,"Row 128, Rack 3",Available,,,,,False
+639,Kinematics - Edition 2,P. N. Rao,MECH,"Row 128, Rack 4",Available,,,,,False
+640,Tribology - Edition 2,F. P. Beer,MECH,"Row 128, Rack 5",Available,,,,,False
+641,Engineering Mechanics - Edition 3,E. R. Johnston,MECH,"Row 129, Rack 1",Available,,,,,False
+642,Strength of Materials - Edition 3,H. B. Callen,MECH,"Row 129, Rack 2",Available,,,,,False
+643,Thermodynamics - Edition 3,J. A. Schey,MECH,"Row 129, Rack 3",Available,,,,,False
+644,Fluid Mechanics - Edition 3,Saeed B. Niku,MECH,"Row 129, Rack 4",Available,,,,,False
+645,Machine Design - Edition 3,S. P. Venkateshan,MECH,"Row 129, Rack 5",Available,,,,,False
+646,Manufacturing Technology - Edition 3,G. K. Lal,MECH,"Row 130, Rack 1",Available,,,,,False
+647,Mechanics of Materials - Edition 3,S. K. Hajra,MECH,"Row 130, Rack 2",Available,,,,,False
+648,Dynamics of Machinery - Edition 3,W. Bolton,MECH,"Row 130, Rack 3",Available,,,,,False
+649,Heat Transfer - Edition 3,R. Hibbeler,MECH,"Row 130, Rack 4",Available,,,,,False
+650,CAD/CAM - Edition 3,T. Goodfellow,MECH,"Row 130, Rack 5",Available,,,,,False
+651,Mechatronics - Edition 3,J. P. Holman,MECH,"Row 131, Rack 1",Available,,,,,False
+652,Automobile Engineering - Edition 3,R. C. Hibbeler,MECH,"Row 131, Rack 2",Available,,,,,False
+653,Industrial Engineering - Edition 3,M. F. Ashby,MECH,"Row 131, Rack 3",Available,,,,,False
+654,Robotics - Edition 3,K. G. Budynas,MECH,"Row 131, Rack 4",Available,,,,,False
+655,Engineering Materials - Edition 3,A. K. Ghose,MECH,"Row 131, Rack 5",Available,,,,,False
+656,Production Technology - Edition 3,S. K. Som,MECH,"Row 132, Rack 1",Available,,,,,False
+657,Operations Research - Edition 3,R. K. Bansal,MECH,"Row 132, Rack 2",Available,,,,,False
+658,Engineering Drawing - Edition 3,R. S. Khurmi,MECH,"Row 132, Rack 3",Available,,,,,False
+659,Kinematics - Edition 3,P. K. Nag,MECH,"Row 132, Rack 4",Available,,,,,False
+660,Tribology - Edition 3,J. E. Shigley,MECH,"Row 132, Rack 5",Available,,,,,False
+661,Engineering Mechanics - Edition 4,R. K. Rajput,MECH,"Row 133, Rack 1",Available,,,,,False
+662,Strength of Materials - Edition 4,M. P. Groover,MECH,"Row 133, Rack 2",Available,,,,,False
+663,Thermodynamics - Edition 4,S. M. Shah,MECH,"Row 133, Rack 3",Available,,,,,False
+664,Fluid Mechanics - Edition 4,Asok Kumar Mallik,MECH,"Row 133, Rack 4",Available,,,,,False
+665,Machine Design - Edition 4,S. S. Rattan,MECH,"Row 133, Rack 5",Available,,,,,False
+666,Manufacturing Technology - Edition 4,R. K. Jain,MECH,"Row 134, Rack 1",Available,,,,,False
+667,Mechanics of Materials - Edition 4,P. N. Rao,MECH,"Row 134, Rack 2",Available,,,,,False
+668,Dynamics of Machinery - Edition 4,F. P. Beer,MECH,"Row 134, Rack 3",Available,,,,,False
+669,Heat Transfer - Edition 4,E. R. Johnston,MECH,"Row 134, Rack 4",Available,,,,,False
+670,CAD/CAM - Edition 4,H. B. Callen,MECH,"Row 134, Rack 5",Available,,,,,False
+671,Mechatronics - Edition 4,J. A. Schey,MECH,"Row 135, Rack 1",Available,,,,,False
+672,Automobile Engineering - Edition 4,Saeed B. Niku,MECH,"Row 135, Rack 2",Available,,,,,False
+673,Industrial Engineering - Edition 4,S. P. Venkateshan,MECH,"Row 135, Rack 3",Available,,,,,False
+674,Robotics - Edition 4,G. K. Lal,MECH,"Row 135, Rack 4",Available,,,,,False
+675,Engineering Materials - Edition 4,S. K. Hajra,MECH,"Row 135, Rack 5",Available,,,,,False
+676,Production Technology - Edition 4,W. Bolton,MECH,"Row 136, Rack 1",Available,,,,,False
+677,Operations Research - Edition 4,R. Hibbeler,MECH,"Row 136, Rack 2",Available,,,,,False
+678,Engineering Drawing - Edition 4,T. Goodfellow,MECH,"Row 136, Rack 3",Available,,,,,False
+679,Kinematics - Edition 4,J. P. Holman,MECH,"Row 136, Rack 4",Available,,,,,False
+680,Tribology - Edition 4,R. C. Hibbeler,MECH,"Row 136, Rack 5",Available,,,,,False
+681,Engineering Mechanics - Edition 5,M. F. Ashby,MECH,"Row 137, Rack 1",Available,,,,,False
+682,Strength of Materials - Edition 5,K. G. Budynas,MECH,"Row 137, Rack 2",Available,,,,,False
+683,Thermodynamics - Edition 5,A. K. Ghose,MECH,"Row 137, Rack 3",Available,,,,,False
+684,Fluid Mechanics - Edition 5,S. K. Som,MECH,"Row 137, Rack 4",Available,,,,,False
+685,Machine Design - Edition 5,R. K. Bansal,MECH,"Row 137, Rack 5",Available,,,,,False
+686,Manufacturing Technology - Edition 5,R. S. Khurmi,MECH,"Row 138, Rack 1",Available,,,,,False
+687,Mechanics of Materials - Edition 5,P. K. Nag,MECH,"Row 138, Rack 2",Available,,,,,False
+688,Dynamics of Machinery - Edition 5,J. E. Shigley,MECH,"Row 138, Rack 3",Available,,,,,False
+689,Heat Transfer - Edition 5,R. K. Rajput,MECH,"Row 138, Rack 4",Available,,,,,False
+690,CAD/CAM - Edition 5,M. P. Groover,MECH,"Row 138, Rack 5",Available,,,,,False
+691,Mechatronics - Edition 5,S. M. Shah,MECH,"Row 139, Rack 1",Available,,,,,False
+692,Automobile Engineering - Edition 5,Asok Kumar Mallik,MECH,"Row 139, Rack 2",Available,,,,,False
+693,Industrial Engineering - Edition 5,S. S. Rattan,MECH,"Row 139, Rack 3",Available,,,,,False
+694,Robotics - Edition 5,R. K. Jain,MECH,"Row 139, Rack 4",Available,,,,,False
+695,Engineering Materials - Edition 5,P. N. Rao,MECH,"Row 139, Rack 5",Available,,,,,False
+696,Production Technology - Edition 5,F. P. Beer,MECH,"Row 140, Rack 1",Available,,,,,False
+697,Operations Research - Edition 5,E. R. Johnston,MECH,"Row 140, Rack 2",Available,,,,,False
+698,Engineering Drawing - Edition 5,H. B. Callen,MECH,"Row 140, Rack 3",Available,,,,,False
+699,Kinematics - Edition 5,J. A. Schey,MECH,"Row 140, Rack 4",Available,,,,,False
+700,Tribology - Edition 5,Saeed B. Niku,MECH,"Row 140, Rack 5",Available,,,,,False
+701,Engineering Mechanics - Edition 6,S. P. Venkateshan,MECH,"Row 141, Rack 1",Available,,,,,False
+702,Strength of Materials - Edition 6,G. K. Lal,MECH,"Row 141, Rack 2",Available,,,,,False
+703,Thermodynamics - Edition 6,S. K. Hajra,MECH,"Row 141, Rack 3",Available,,,,,False
+704,Fluid Mechanics - Edition 6,W. Bolton,MECH,"Row 141, Rack 4",Available,,,,,False
+705,Machine Design - Edition 6,R. Hibbeler,MECH,"Row 141, Rack 5",Available,,,,,False
+706,Manufacturing Technology - Edition 6,T. Goodfellow,MECH,"Row 142, Rack 1",Available,,,,,False
+707,Mechanics of Materials - Edition 6,J. P. Holman,MECH,"Row 142, Rack 2",Available,,,,,False
+708,Dynamics of Machinery - Edition 6,R. C. Hibbeler,MECH,"Row 142, Rack 3",Available,,,,,False
+709,Heat Transfer - Edition 6,M. F. Ashby,MECH,"Row 142, Rack 4",Available,,,,,False
+710,CAD/CAM - Edition 6,K. G. Budynas,MECH,"Row 142, Rack 5",Available,,,,,False
+711,Mechatronics - Edition 6,A. K. Ghose,MECH,"Row 143, Rack 1",Available,,,,,False
+712,Automobile Engineering - Edition 6,S. K. Som,MECH,"Row 143, Rack 2",Available,,,,,False
+713,Industrial Engineering - Edition 6,R. K. Bansal,MECH,"Row 143, Rack 3",Available,,,,,False
+714,Robotics - Edition 6,R. S. Khurmi,MECH,"Row 143, Rack 4",Available,,,,,False
+715,Engineering Materials - Edition 6,P. K. Nag,MECH,"Row 143, Rack 5",Available,,,,,False
+716,Production Technology - Edition 6,J. E. Shigley,MECH,"Row 144, Rack 1",Available,,,,,False
+717,Operations Research - Edition 6,R. K. Rajput,MECH,"Row 144, Rack 2",Available,,,,,False
+718,Engineering Drawing - Edition 6,M. P. Groover,MECH,"Row 144, Rack 3",Available,,,,,False
+719,Kinematics - Edition 6,S. M. Shah,MECH,"Row 144, Rack 4",Available,,,,,False
+720,Tribology - Edition 6,Asok Kumar Mallik,MECH,"Row 144, Rack 5",Available,,,,,False
+721,Engineering Mechanics - Edition 7,S. S. Rattan,MECH,"Row 145, Rack 1",Available,,,,,False
+722,Strength of Materials - Edition 7,R. K. Jain,MECH,"Row 145, Rack 2",Available,,,,,False
+723,Thermodynamics - Edition 7,P. N. Rao,MECH,"Row 145, Rack 3",Available,,,,,False
+724,Fluid Mechanics - Edition 7,F. P. Beer,MECH,"Row 145, Rack 4",Available,,,,,False
+725,Machine Design - Edition 7,E. R. Johnston,MECH,"Row 145, Rack 5",Available,,,,,False
+726,Manufacturing Technology - Edition 7,H. B. Callen,MECH,"Row 146, Rack 1",Available,,,,,False
+727,Mechanics of Materials - Edition 7,J. A. Schey,MECH,"Row 146, Rack 2",Available,,,,,False
+728,Dynamics of Machinery - Edition 7,Saeed B. Niku,MECH,"Row 146, Rack 3",Available,,,,,False
+729,Heat Transfer - Edition 7,S. P. Venkateshan,MECH,"Row 146, Rack 4",Available,,,,,False
+730,CAD/CAM - Edition 7,G. K. Lal,MECH,"Row 146, Rack 5",Available,,,,,False
+731,Mechatronics - Edition 7,S. K. Hajra,MECH,"Row 147, Rack 1",Available,,,,,False
+732,Automobile Engineering - Edition 7,W. Bolton,MECH,"Row 147, Rack 2",Available,,,,,False
+733,Industrial Engineering - Edition 7,R. Hibbeler,MECH,"Row 147, Rack 3",Available,,,,,False
+734,Robotics - Edition 7,T. Goodfellow,MECH,"Row 147, Rack 4",Available,,,,,False
+735,Engineering Materials - Edition 7,J. P. Holman,MECH,"Row 147, Rack 5",Available,,,,,False
+736,Production Technology - Edition 7,R. C. Hibbeler,MECH,"Row 148, Rack 1",Available,,,,,False
+737,Operations Research - Edition 7,M. F. Ashby,MECH,"Row 148, Rack 2",Available,,,,,False
+738,Engineering Drawing - Edition 7,K. G. Budynas,MECH,"Row 148, Rack 3",Available,,,,,False
+739,Kinematics - Edition 7,A. K. Ghose,MECH,"Row 148, Rack 4",Available,,,,,False
+740,Tribology - Edition 7,S. K. Som,MECH,"Row 148, Rack 5",Available,,,,,False
+741,Engineering Mechanics - Edition 8,R. K. Bansal,MECH,"Row 149, Rack 1",Available,,,,,False
+742,Strength of Materials - Edition 8,R. S. Khurmi,MECH,"Row 149, Rack 2",Available,,,,,False
+743,Thermodynamics - Edition 8,P. K. Nag,MECH,"Row 149, Rack 3",Available,,,,,False
+744,Fluid Mechanics - Edition 8,J. E. Shigley,MECH,"Row 149, Rack 4",Available,,,,,False
+745,Machine Design - Edition 8,R. K. Rajput,MECH,"Row 149, Rack 5",Available,,,,,False
+746,Manufacturing Technology - Edition 8,M. P. Groover,MECH,"Row 150, Rack 1",Available,,,,,False
+747,Mechanics of Materials - Edition 8,S. M. Shah,MECH,"Row 150, Rack 2",Available,,,,,False
+748,Dynamics of Machinery - Edition 8,Asok Kumar Mallik,MECH,"Row 150, Rack 3",Available,,,,,False
+749,Heat Transfer - Edition 8,S. S. Rattan,MECH,"Row 150, Rack 4",Available,,,,,False
+750,CAD/CAM - Edition 8,R. K. Jain,MECH,"Row 150, Rack 5",Available,,,,,False
+751,Mechatronics - Edition 8,P. N. Rao,MECH,"Row 151, Rack 1",Available,,,,,False
+752,Automobile Engineering - Edition 8,F. P. Beer,MECH,"Row 151, Rack 2",Available,,,,,False
+753,Industrial Engineering - Edition 8,E. R. Johnston,MECH,"Row 151, Rack 3",Available,,,,,False
+754,Robotics - Edition 8,H. B. Callen,MECH,"Row 151, Rack 4",Available,,,,,False
+755,Engineering Materials - Edition 8,J. A. Schey,MECH,"Row 151, Rack 5",Available,,,,,False
+756,Production Technology - Edition 8,Saeed B. Niku,MECH,"Row 152, Rack 1",Available,,,,,False
+757,Operations Research - Edition 8,S. P. Venkateshan,MECH,"Row 152, Rack 2",Available,,,,,False
+758,Engineering Drawing - Edition 8,G. K. Lal,MECH,"Row 152, Rack 3",Available,,,,,False
+759,Kinematics - Edition 8,S. K. Hajra,MECH,"Row 152, Rack 4",Available,,,,,False
+760,Tribology - Edition 8,W. Bolton,MECH,"Row 152, Rack 5",Available,,,,,False
+761,Engineering Mechanics - Edition 9,R. Hibbeler,MECH,"Row 153, Rack 1",Available,,,,,False
+762,Strength of Materials - Edition 9,T. Goodfellow,MECH,"Row 153, Rack 2",Available,,,,,False
+763,Thermodynamics - Edition 9,J. P. Holman,MECH,"Row 153, Rack 3",Available,,,,,False
+764,Fluid Mechanics - Edition 9,R. C. Hibbeler,MECH,"Row 153, Rack 4",Available,,,,,False
+765,Machine Design - Edition 9,M. F. Ashby,MECH,"Row 153, Rack 5",Available,,,,,False
+766,Manufacturing Technology - Edition 9,K. G. Budynas,MECH,"Row 154, Rack 1",Available,,,,,False
+767,Mechanics of Materials - Edition 9,A. K. Ghose,MECH,"Row 154, Rack 2",Available,,,,,False
+768,Dynamics of Machinery - Edition 9,S. K. Som,MECH,"Row 154, Rack 3",Available,,,,,False
+769,Heat Transfer - Edition 9,R. K. Bansal,MECH,"Row 154, Rack 4",Available,,,,,False
+770,CAD/CAM - Edition 9,R. S. Khurmi,MECH,"Row 154, Rack 5",Available,,,,,False
+771,Mechatronics - Edition 9,P. K. Nag,MECH,"Row 155, Rack 1",Available,,,,,False
+772,Automobile Engineering - Edition 9,J. E. Shigley,MECH,"Row 155, Rack 2",Available,,,,,False
+773,Industrial Engineering - Edition 9,R. K. Rajput,MECH,"Row 155, Rack 3",Available,,,,,False
+774,Robotics - Edition 9,M. P. Groover,MECH,"Row 155, Rack 4",Available,,,,,False
+775,Engineering Materials - Edition 9,S. M. Shah,MECH,"Row 155, Rack 5",Available,,,,,False
+776,Production Technology - Edition 9,Asok Kumar Mallik,MECH,"Row 156, Rack 1",Available,,,,,False
+777,Operations Research - Edition 9,S. S. Rattan,MECH,"Row 156, Rack 2",Available,,,,,False
+778,Engineering Drawing - Edition 9,R. K. Jain,MECH,"Row 156, Rack 3",Available,,,,,False
+779,Kinematics - Edition 9,P. N. Rao,MECH,"Row 156, Rack 4",Available,,,,,False
+780,Tribology - Edition 9,F. P. Beer,MECH,"Row 156, Rack 5",Available,,,,,False
+781,Engineering Mechanics - Edition 10,E. R. Johnston,MECH,"Row 157, Rack 1",Available,,,,,False
+782,Strength of Materials - Edition 10,H. B. Callen,MECH,"Row 157, Rack 2",Available,,,,,False
+783,Thermodynamics - Edition 10,J. A. Schey,MECH,"Row 157, Rack 3",Available,,,,,False
+784,Fluid Mechanics - Edition 10,Saeed B. Niku,MECH,"Row 157, Rack 4",Available,,,,,False
+785,Machine Design - Edition 10,S. P. Venkateshan,MECH,"Row 157, Rack 5",Available,,,,,False
+786,Manufacturing Technology - Edition 10,G. K. Lal,MECH,"Row 158, Rack 1",Available,,,,,False
+787,Mechanics of Materials - Edition 10,S. K. Hajra,MECH,"Row 158, Rack 2",Available,,,,,False
+788,Dynamics of Machinery - Edition 10,W. Bolton,MECH,"Row 158, Rack 3",Available,,,,,False
+789,Heat Transfer - Edition 10,R. Hibbeler,MECH,"Row 158, Rack 4",Available,,,,,False
+790,CAD/CAM - Edition 10,T. Goodfellow,MECH,"Row 158, Rack 5",Available,,,,,False
+791,Mechatronics - Edition 10,J. P. Holman,MECH,"Row 159, Rack 1",Available,,,,,False
+792,Automobile Engineering - Edition 10,R. C. Hibbeler,MECH,"Row 159, Rack 2",Available,,,,,False
+793,Industrial Engineering - Edition 10,M. F. Ashby,MECH,"Row 159, Rack 3",Available,,,,,False
+794,Robotics - Edition 10,K. G. Budynas,MECH,"Row 159, Rack 4",Available,,,,,False
+795,Engineering Materials - Edition 10,A. K. Ghose,MECH,"Row 159, Rack 5",Available,,,,,False
+796,Production Technology - Edition 10,S. K. Som,MECH,"Row 160, Rack 1",Available,,,,,False
+797,Operations Research - Edition 10,R. K. Bansal,MECH,"Row 160, Rack 2",Available,,,,,False
+798,Engineering Drawing - Edition 10,R. S. Khurmi,MECH,"Row 160, Rack 3",Available,,,,,False
+799,Kinematics - Edition 10,P. K. Nag,MECH,"Row 160, Rack 4",Available,,,,,False
+800,Tribology - Edition 10,J. E. Shigley,MECH,"Row 160, Rack 5",Available,,,,,False
+801,Strength of Materials,B. C. Punmia,CIVIL,"Row 161, Rack 1",Available,,,,,False
+802,Engineering Mechanics,R. K. Bansal,CIVIL,"Row 161, Rack 2",Available,,,,,False
+803,Structural Analysis,S. K. Duggal,CIVIL,"Row 161, Rack 3",Available,,,,,False
+804,Concrete Technology,R. S. Khurmi,CIVIL,"Row 161, Rack 4",Available,,,,,False
+805,Fluid Mechanics,K. R. Arora,CIVIL,"Row 161, Rack 5",Available,,,,,False
+806,Soil Mechanics,S. P. Bindra,CIVIL,"Row 162, Rack 1",Available,,,,,False
+807,Surveying,S. C. Rangwala,CIVIL,"Row 162, Rack 2",Available,,,,,False
+808,Building Materials,M. Chakraborti,CIVIL,"Row 162, Rack 3",Available,,,,,False
+809,Transportation Engineering,S. K. Sharma,CIVIL,"Row 162, Rack 4",Available,,,,,False
+810,Environmental Engineering,L. N. Narayanan,CIVIL,"Row 162, Rack 5",Available,,,,,False
+811,Construction Management,R. Srinivasan,CIVIL,"Row 163, Rack 1",Available,,,,,False
+812,Geotechnical Engineering,V. N. Vazirani,CIVIL,"Row 163, Rack 2",Available,,,,,False
+813,Hydrology,R. K. Rajput,CIVIL,"Row 163, Rack 3",Available,,,,,False
+814,Steel Structures,S. D. Singh,CIVIL,"Row 163, Rack 4",Available,,,,,False
+815,Reinforced Concrete Design,K. Subramanian,CIVIL,"Row 163, Rack 5",Available,,,,,False
+816,Water Resources,P. C. Varghese,CIVIL,"Row 164, Rack 1",Available,,,,,False
+817,Foundation Engineering,K. S. Rangasamy,CIVIL,"Row 164, Rack 2",Available,,,,,False
+818,Remote Sensing,N. R. Manju,CIVIL,"Row 164, Rack 3",Available,,,,,False
+819,Highway Engineering,J. K. Das,CIVIL,"Row 164, Rack 4",Available,,,,,False
+820,Estimation and Costing,H. G. Kocher,CIVIL,"Row 164, Rack 5",Available,,,,,False
+821,Strength of Materials - Edition 2,B. C. Punmia,CIVIL,"Row 165, Rack 1",Available,,,,,False
+822,Engineering Mechanics - Edition 2,R. K. Bansal,CIVIL,"Row 165, Rack 2",Available,,,,,False
+823,Structural Analysis - Edition 2,S. K. Duggal,CIVIL,"Row 165, Rack 3",Available,,,,,False
+824,Concrete Technology - Edition 2,R. S. Khurmi,CIVIL,"Row 165, Rack 4",Available,,,,,False
+825,Fluid Mechanics - Edition 2,K. R. Arora,CIVIL,"Row 165, Rack 5",Available,,,,,False
+826,Soil Mechanics - Edition 2,S. P. Bindra,CIVIL,"Row 166, Rack 1",Available,,,,,False
+827,Surveying - Edition 2,S. C. Rangwala,CIVIL,"Row 166, Rack 2",Available,,,,,False
+828,Building Materials - Edition 2,M. Chakraborti,CIVIL,"Row 166, Rack 3",Available,,,,,False
+829,Transportation Engineering - Edition 2,S. K. Sharma,CIVIL,"Row 166, Rack 4",Available,,,,,False
+830,Environmental Engineering - Edition 2,L. N. Narayanan,CIVIL,"Row 166, Rack 5",Available,,,,,False
+831,Construction Management - Edition 2,R. Srinivasan,CIVIL,"Row 167, Rack 1",Available,,,,,False
+832,Geotechnical Engineering - Edition 2,V. N. Vazirani,CIVIL,"Row 167, Rack 2",Available,,,,,False
+833,Hydrology - Edition 2,R. K. Rajput,CIVIL,"Row 167, Rack 3",Available,,,,,False
+834,Steel Structures - Edition 2,S. D. Singh,CIVIL,"Row 167, Rack 4",Available,,,,,False
+835,Reinforced Concrete Design - Edition 2,K. Subramanian,CIVIL,"Row 167, Rack 5",Available,,,,,False
+836,Water Resources - Edition 2,P. C. Varghese,CIVIL,"Row 168, Rack 1",Available,,,,,False
+837,Foundation Engineering - Edition 2,K. S. Rangasamy,CIVIL,"Row 168, Rack 2",Available,,,,,False
+838,Remote Sensing - Edition 2,N. R. Manju,CIVIL,"Row 168, Rack 3",Available,,,,,False
+839,Highway Engineering - Edition 2,J. K. Das,CIVIL,"Row 168, Rack 4",Available,,,,,False
+840,Estimation and Costing - Edition 2,H. G. Kocher,CIVIL,"Row 168, Rack 5",Available,,,,,False
+841,Strength of Materials - Edition 3,B. C. Punmia,CIVIL,"Row 169, Rack 1",Available,,,,,False
+842,Engineering Mechanics - Edition 3,R. K. Bansal,CIVIL,"Row 169, Rack 2",Available,,,,,False
+843,Structural Analysis - Edition 3,S. K. Duggal,CIVIL,"Row 169, Rack 3",Available,,,,,False
+844,Concrete Technology - Edition 3,R. S. Khurmi,CIVIL,"Row 169, Rack 4",Available,,,,,False
+845,Fluid Mechanics - Edition 3,K. R. Arora,CIVIL,"Row 169, Rack 5",Available,,,,,False
+846,Soil Mechanics - Edition 3,S. P. Bindra,CIVIL,"Row 170, Rack 1",Available,,,,,False
+847,Surveying - Edition 3,S. C. Rangwala,CIVIL,"Row 170, Rack 2",Available,,,,,False
+848,Building Materials - Edition 3,M. Chakraborti,CIVIL,"Row 170, Rack 3",Available,,,,,False
+849,Transportation Engineering - Edition 3,S. K. Sharma,CIVIL,"Row 170, Rack 4",Available,,,,,False
+850,Environmental Engineering - Edition 3,L. N. Narayanan,CIVIL,"Row 170, Rack 5",Available,,,,,False
+851,Construction Management - Edition 3,R. Srinivasan,CIVIL,"Row 171, Rack 1",Available,,,,,False
+852,Geotechnical Engineering - Edition 3,V. N. Vazirani,CIVIL,"Row 171, Rack 2",Available,,,,,False
+853,Hydrology - Edition 3,R. K. Rajput,CIVIL,"Row 171, Rack 3",Available,,,,,False
+854,Steel Structures - Edition 3,S. D. Singh,CIVIL,"Row 171, Rack 4",Available,,,,,False
+855,Reinforced Concrete Design - Edition 3,K. Subramanian,CIVIL,"Row 171, Rack 5",Available,,,,,False
+856,Water Resources - Edition 3,P. C. Varghese,CIVIL,"Row 172, Rack 1",Available,,,,,False
+857,Foundation Engineering - Edition 3,K. S. Rangasamy,CIVIL,"Row 172, Rack 2",Available,,,,,False
+858,Remote Sensing - Edition 3,N. R. Manju,CIVIL,"Row 172, Rack 3",Available,,,,,False
+859,Highway Engineering - Edition 3,J. K. Das,CIVIL,"Row 172, Rack 4",Available,,,,,False
+860,Estimation and Costing - Edition 3,H. G. Kocher,CIVIL,"Row 172, Rack 5",Available,,,,,False
+861,Strength of Materials - Edition 4,B. C. Punmia,CIVIL,"Row 173, Rack 1",Available,,,,,False
+862,Engineering Mechanics - Edition 4,R. K. Bansal,CIVIL,"Row 173, Rack 2",Available,,,,,False
+863,Structural Analysis - Edition 4,S. K. Duggal,CIVIL,"Row 173, Rack 3",Available,,,,,False
+864,Concrete Technology - Edition 4,R. S. Khurmi,CIVIL,"Row 173, Rack 4",Available,,,,,False
+865,Fluid Mechanics - Edition 4,K. R. Arora,CIVIL,"Row 173, Rack 5",Available,,,,,False
+866,Soil Mechanics - Edition 4,S. P. Bindra,CIVIL,"Row 174, Rack 1",Available,,,,,False
+867,Surveying - Edition 4,S. C. Rangwala,CIVIL,"Row 174, Rack 2",Available,,,,,False
+868,Building Materials - Edition 4,M. Chakraborti,CIVIL,"Row 174, Rack 3",Available,,,,,False
+869,Transportation Engineering - Edition 4,S. K. Sharma,CIVIL,"Row 174, Rack 4",Available,,,,,False
+870,Environmental Engineering - Edition 4,L. N. Narayanan,CIVIL,"Row 174, Rack 5",Available,,,,,False
+871,Construction Management - Edition 4,R. Srinivasan,CIVIL,"Row 175, Rack 1",Available,,,,,False
+872,Geotechnical Engineering - Edition 4,V. N. Vazirani,CIVIL,"Row 175, Rack 2",Available,,,,,False
+873,Hydrology - Edition 4,R. K. Rajput,CIVIL,"Row 175, Rack 3",Available,,,,,False
+874,Steel Structures - Edition 4,S. D. Singh,CIVIL,"Row 175, Rack 4",Available,,,,,False
+875,Reinforced Concrete Design - Edition 4,K. Subramanian,CIVIL,"Row 175, Rack 5",Available,,,,,False
+876,Water Resources - Edition 4,P. C. Varghese,CIVIL,"Row 176, Rack 1",Available,,,,,False
+877,Foundation Engineering - Edition 4,K. S. Rangasamy,CIVIL,"Row 176, Rack 2",Available,,,,,False
+878,Remote Sensing - Edition 4,N. R. Manju,CIVIL,"Row 176, Rack 3",Available,,,,,False
+879,Highway Engineering - Edition 4,J. K. Das,CIVIL,"Row 176, Rack 4",Available,,,,,False
+880,Estimation and Costing - Edition 4,H. G. Kocher,CIVIL,"Row 176, Rack 5",Available,,,,,False
+881,Strength of Materials - Edition 5,B. C. Punmia,CIVIL,"Row 177, Rack 1",Available,,,,,False
+882,Engineering Mechanics - Edition 5,R. K. Bansal,CIVIL,"Row 177, Rack 2",Available,,,,,False
+883,Structural Analysis - Edition 5,S. K. Duggal,CIVIL,"Row 177, Rack 3",Available,,,,,False
+884,Concrete Technology - Edition 5,R. S. Khurmi,CIVIL,"Row 177, Rack 4",Available,,,,,False
+885,Fluid Mechanics - Edition 5,K. R. Arora,CIVIL,"Row 177, Rack 5",Available,,,,,False
+886,Soil Mechanics - Edition 5,S. P. Bindra,CIVIL,"Row 178, Rack 1",Available,,,,,False
+887,Surveying - Edition 5,S. C. Rangwala,CIVIL,"Row 178, Rack 2",Available,,,,,False
+888,Building Materials - Edition 5,M. Chakraborti,CIVIL,"Row 178, Rack 3",Available,,,,,False
+889,Transportation Engineering - Edition 5,S. K. Sharma,CIVIL,"Row 178, Rack 4",Available,,,,,False
+890,Environmental Engineering - Edition 5,L. N. Narayanan,CIVIL,"Row 178, Rack 5",Available,,,,,False
+891,Construction Management - Edition 5,R. Srinivasan,CIVIL,"Row 179, Rack 1",Available,,,,,False
+892,Geotechnical Engineering - Edition 5,V. N. Vazirani,CIVIL,"Row 179, Rack 2",Available,,,,,False
+893,Hydrology - Edition 5,R. K. Rajput,CIVIL,"Row 179, Rack 3",Available,,,,,False
+894,Steel Structures - Edition 5,S. D. Singh,CIVIL,"Row 179, Rack 4",Available,,,,,False
+895,Reinforced Concrete Design - Edition 5,K. Subramanian,CIVIL,"Row 179, Rack 5",Available,,,,,False
+896,Water Resources - Edition 5,P. C. Varghese,CIVIL,"Row 180, Rack 1",Available,,,,,False
+897,Foundation Engineering - Edition 5,K. S. Rangasamy,CIVIL,"Row 180, Rack 2",Available,,,,,False
+898,Remote Sensing - Edition 5,N. R. Manju,CIVIL,"Row 180, Rack 3",Available,,,,,False
+899,Highway Engineering - Edition 5,J. K. Das,CIVIL,"Row 180, Rack 4",Available,,,,,False
+900,Estimation and Costing - Edition 5,H. G. Kocher,CIVIL,"Row 180, Rack 5",Available,,,,,False
+901,Strength of Materials - Edition 6,B. C. Punmia,CIVIL,"Row 181, Rack 1",Available,,,,,False
+902,Engineering Mechanics - Edition 6,R. K. Bansal,CIVIL,"Row 181, Rack 2",Available,,,,,False
+903,Structural Analysis - Edition 6,S. K. Duggal,CIVIL,"Row 181, Rack 3",Available,,,,,False
+904,Concrete Technology - Edition 6,R. S. Khurmi,CIVIL,"Row 181, Rack 4",Available,,,,,False
+905,Fluid Mechanics - Edition 6,K. R. Arora,CIVIL,"Row 181, Rack 5",Available,,,,,False
+906,Soil Mechanics - Edition 6,S. P. Bindra,CIVIL,"Row 182, Rack 1",Available,,,,,False
+907,Surveying - Edition 6,S. C. Rangwala,CIVIL,"Row 182, Rack 2",Available,,,,,False
+908,Building Materials - Edition 6,M. Chakraborti,CIVIL,"Row 182, Rack 3",Available,,,,,False
+909,Transportation Engineering - Edition 6,S. K. Sharma,CIVIL,"Row 182, Rack 4",Available,,,,,False
+910,Environmental Engineering - Edition 6,L. N. Narayanan,CIVIL,"Row 182, Rack 5",Available,,,,,False
+911,Construction Management - Edition 6,R. Srinivasan,CIVIL,"Row 183, Rack 1",Available,,,,,False
+912,Geotechnical Engineering - Edition 6,V. N. Vazirani,CIVIL,"Row 183, Rack 2",Available,,,,,False
+913,Hydrology - Edition 6,R. K. Rajput,CIVIL,"Row 183, Rack 3",Available,,,,,False
+914,Steel Structures - Edition 6,S. D. Singh,CIVIL,"Row 183, Rack 4",Available,,,,,False
+915,Reinforced Concrete Design - Edition 6,K. Subramanian,CIVIL,"Row 183, Rack 5",Available,,,,,False
+916,Water Resources - Edition 6,P. C. Varghese,CIVIL,"Row 184, Rack 1",Available,,,,,False
+917,Foundation Engineering - Edition 6,K. S. Rangasamy,CIVIL,"Row 184, Rack 2",Available,,,,,False
+918,Remote Sensing - Edition 6,N. R. Manju,CIVIL,"Row 184, Rack 3",Available,,,,,False
+919,Highway Engineering - Edition 6,J. K. Das,CIVIL,"Row 184, Rack 4",Available,,,,,False
+920,Estimation and Costing - Edition 6,H. G. Kocher,CIVIL,"Row 184, Rack 5",Available,,,,,False
+921,Strength of Materials - Edition 7,B. C. Punmia,CIVIL,"Row 185, Rack 1",Available,,,,,False
+922,Engineering Mechanics - Edition 7,R. K. Bansal,CIVIL,"Row 185, Rack 2",Available,,,,,False
+923,Structural Analysis - Edition 7,S. K. Duggal,CIVIL,"Row 185, Rack 3",Available,,,,,False
+924,Concrete Technology - Edition 7,R. S. Khurmi,CIVIL,"Row 185, Rack 4",Available,,,,,False
+925,Fluid Mechanics - Edition 7,K. R. Arora,CIVIL,"Row 185, Rack 5",Available,,,,,False
+926,Soil Mechanics - Edition 7,S. P. Bindra,CIVIL,"Row 186, Rack 1",Available,,,,,False
+927,Surveying - Edition 7,S. C. Rangwala,CIVIL,"Row 186, Rack 2",Available,,,,,False
+928,Building Materials - Edition 7,M. Chakraborti,CIVIL,"Row 186, Rack 3",Available,,,,,False
+929,Transportation Engineering - Edition 7,S. K. Sharma,CIVIL,"Row 186, Rack 4",Available,,,,,False
+930,Environmental Engineering - Edition 7,L. N. Narayanan,CIVIL,"Row 186, Rack 5",Available,,,,,False
+931,Construction Management - Edition 7,R. Srinivasan,CIVIL,"Row 187, Rack 1",Available,,,,,False
+932,Geotechnical Engineering - Edition 7,V. N. Vazirani,CIVIL,"Row 187, Rack 2",Available,,,,,False
+933,Hydrology - Edition 7,R. K. Rajput,CIVIL,"Row 187, Rack 3",Available,,,,,False
+934,Steel Structures - Edition 7,S. D. Singh,CIVIL,"Row 187, Rack 4",Available,,,,,False
+935,Reinforced Concrete Design - Edition 7,K. Subramanian,CIVIL,"Row 187, Rack 5",Available,,,,,False
+936,Water Resources - Edition 7,P. C. Varghese,CIVIL,"Row 188, Rack 1",Available,,,,,False
+937,Foundation Engineering - Edition 7,K. S. Rangasamy,CIVIL,"Row 188, Rack 2",Available,,,,,False
+938,Remote Sensing - Edition 7,N. R. Manju,CIVIL,"Row 188, Rack 3",Available,,,,,False
+939,Highway Engineering - Edition 7,J. K. Das,CIVIL,"Row 188, Rack 4",Available,,,,,False
+940,Estimation and Costing - Edition 7,H. G. Kocher,CIVIL,"Row 188, Rack 5",Available,,,,,False
+941,Strength of Materials - Edition 8,B. C. Punmia,CIVIL,"Row 189, Rack 1",Available,,,,,False
+942,Engineering Mechanics - Edition 8,R. K. Bansal,CIVIL,"Row 189, Rack 2",Available,,,,,False
+943,Structural Analysis - Edition 8,S. K. Duggal,CIVIL,"Row 189, Rack 3",Available,,,,,False
+944,Concrete Technology - Edition 8,R. S. Khurmi,CIVIL,"Row 189, Rack 4",Available,,,,,False
+945,Fluid Mechanics - Edition 8,K. R. Arora,CIVIL,"Row 189, Rack 5",Available,,,,,False
+946,Soil Mechanics - Edition 8,S. P. Bindra,CIVIL,"Row 190, Rack 1",Available,,,,,False
+947,Surveying - Edition 8,S. C. Rangwala,CIVIL,"Row 190, Rack 2",Available,,,,,False
+948,Building Materials - Edition 8,M. Chakraborti,CIVIL,"Row 190, Rack 3",Available,,,,,False
+949,Transportation Engineering - Edition 8,S. K. Sharma,CIVIL,"Row 190, Rack 4",Available,,,,,False
+950,Environmental Engineering - Edition 8,L. N. Narayanan,CIVIL,"Row 190, Rack 5",Available,,,,,False
+951,Construction Management - Edition 8,R. Srinivasan,CIVIL,"Row 191, Rack 1",Available,,,,,False
+952,Geotechnical Engineering - Edition 8,V. N. Vazirani,CIVIL,"Row 191, Rack 2",Available,,,,,False
+953,Hydrology - Edition 8,R. K. Rajput,CIVIL,"Row 191, Rack 3",Available,,,,,False
+954,Steel Structures - Edition 8,S. D. Singh,CIVIL,"Row 191, Rack 4",Available,,,,,False
+955,Reinforced Concrete Design - Edition 8,K. Subramanian,CIVIL,"Row 191, Rack 5",Available,,,,,False
+956,Water Resources - Edition 8,P. C. Varghese,CIVIL,"Row 192, Rack 1",Available,,,,,False
+957,Foundation Engineering - Edition 8,K. S. Rangasamy,CIVIL,"Row 192, Rack 2",Available,,,,,False
+958,Remote Sensing - Edition 8,N. R. Manju,CIVIL,"Row 192, Rack 3",Available,,,,,False
+959,Highway Engineering - Edition 8,J. K. Das,CIVIL,"Row 192, Rack 4",Available,,,,,False
+960,Estimation and Costing - Edition 8,H. G. Kocher,CIVIL,"Row 192, Rack 5",Available,,,,,False
+961,Strength of Materials - Edition 9,B. C. Punmia,CIVIL,"Row 193, Rack 1",Available,,,,,False
+962,Engineering Mechanics - Edition 9,R. K. Bansal,CIVIL,"Row 193, Rack 2",Available,,,,,False
+963,Structural Analysis - Edition 9,S. K. Duggal,CIVIL,"Row 193, Rack 3",Available,,,,,False
+964,Concrete Technology - Edition 9,R. S. Khurmi,CIVIL,"Row 193, Rack 4",Available,,,,,False
+965,Fluid Mechanics - Edition 9,K. R. Arora,CIVIL,"Row 193, Rack 5",Available,,,,,False
+966,Soil Mechanics - Edition 9,S. P. Bindra,CIVIL,"Row 194, Rack 1",Available,,,,,False
+967,Surveying - Edition 9,S. C. Rangwala,CIVIL,"Row 194, Rack 2",Available,,,,,False
+968,Building Materials - Edition 9,M. Chakraborti,CIVIL,"Row 194, Rack 3",Available,,,,,False
+969,Transportation Engineering - Edition 9,S. K. Sharma,CIVIL,"Row 194, Rack 4",Available,,,,,False
+970,Environmental Engineering - Edition 9,L. N. Narayanan,CIVIL,"Row 194, Rack 5",Available,,,,,False
+971,Construction Management - Edition 9,R. Srinivasan,CIVIL,"Row 195, Rack 1",Available,,,,,False
+972,Geotechnical Engineering - Edition 9,V. N. Vazirani,CIVIL,"Row 195, Rack 2",Available,,,,,False
+973,Hydrology - Edition 9,R. K. Rajput,CIVIL,"Row 195, Rack 3",Available,,,,,False
+974,Steel Structures - Edition 9,S. D. Singh,CIVIL,"Row 195, Rack 4",Available,,,,,False
+975,Reinforced Concrete Design - Edition 9,K. Subramanian,CIVIL,"Row 195, Rack 5",Available,,,,,False
+976,Water Resources - Edition 9,P. C. Varghese,CIVIL,"Row 196, Rack 1",Available,,,,,False
+977,Foundation Engineering - Edition 9,K. S. Rangasamy,CIVIL,"Row 196, Rack 2",Available,,,,,False
+978,Remote Sensing - Edition 9,N. R. Manju,CIVIL,"Row 196, Rack 3",Available,,,,,False
+979,Highway Engineering - Edition 9,J. K. Das,CIVIL,"Row 196, Rack 4",Available,,,,,False
+980,Estimation and Costing - Edition 9,H. G. Kocher,CIVIL,"Row 196, Rack 5",Available,,,,,False
+981,Strength of Materials - Edition 10,B. C. Punmia,CIVIL,"Row 197, Rack 1",Available,,,,,False
+982,Engineering Mechanics - Edition 10,R. K. Bansal,CIVIL,"Row 197, Rack 2",Available,,,,,False
+983,Structural Analysis - Edition 10,S. K. Duggal,CIVIL,"Row 197, Rack 3",Available,,,,,False
+984,Concrete Technology - Edition 10,R. S. Khurmi,CIVIL,"Row 197, Rack 4",Available,,,,,False
+985,Fluid Mechanics - Edition 10,K. R. Arora,CIVIL,"Row 197, Rack 5",Available,,,,,False
+986,Soil Mechanics - Edition 10,S. P. Bindra,CIVIL,"Row 198, Rack 1",Available,,,,,False
+987,Surveying - Edition 10,S. C. Rangwala,CIVIL,"Row 198, Rack 2",Available,,,,,False
+988,Building Materials - Edition 10,M. Chakraborti,CIVIL,"Row 198, Rack 3",Available,,,,,False
+989,Transportation Engineering - Edition 10,S. K. Sharma,CIVIL,"Row 198, Rack 4",Available,,,,,False
+990,Environmental Engineering - Edition 10,L. N. Narayanan,CIVIL,"Row 198, Rack 5",Available,,,,,False
+991,Construction Management - Edition 10,R. Srinivasan,CIVIL,"Row 199, Rack 1",Available,,,,,False
+992,Geotechnical Engineering - Edition 10,V. N. Vazirani,CIVIL,"Row 199, Rack 2",Available,,,,,False
+993,Hydrology - Edition 10,R. K. Rajput,CIVIL,"Row 199, Rack 3",Available,,,,,False
+994,Steel Structures - Edition 10,S. D. Singh,CIVIL,"Row 199, Rack 4",Available,,,,,False
+995,Reinforced Concrete Design - Edition 10,K. Subramanian,CIVIL,"Row 199, Rack 5",Available,,,,,False
+996,Water Resources - Edition 10,P. C. Varghese,CIVIL,"Row 200, Rack 1",Borrowed,513122106076.0,,,,False
+997,Foundation Engineering - Edition 10,K. S. Rangasamy,CIVIL,"Row 200, Rack 2",Available,,,,,False
+998,Remote Sensing - Edition 10,N. R. Manju,CIVIL,"Row 200, Rack 3",Available,,,,,False
+999,Highway Engineering - Edition 10,J. K. Das,CIVIL,"Row 200, Rack 4",Available,,,,,False
+1000,Estimation and Costing - Edition 10,H. G. Kocher,CIVIL,"Row 200, Rack 5",Available,,,,,False
